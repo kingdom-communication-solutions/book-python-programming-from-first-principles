@@ -1,0 +1,9 @@
+# One Python environment for the From First Principles to Intelligent Solutions series.
+# Used by the local workspace downloads and as the package list for code.kcslab.org.
+# Python 3.10 or later. Book 1 (Python Programming from First Principles) needs only
+# the standard library up to Part 7 (OOP); Part 8 (Advanced Python) adds the packages below.
+requests>=2.31
+beautifulsoup4>=4.12
+pytest>=8.0
+# Later books add their packages here, for example:
+# numpy, pandas, matplotlib (data analysis and visualization)

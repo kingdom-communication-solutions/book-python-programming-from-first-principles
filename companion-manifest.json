@@ -1,0 +1,2932 @@
+{
+  "book": "Python Programming from First Principles",
+  "prepared_on": "2026-11-20",
+  "source": "Learner-only local workspace packages",
+  "files": [
+    {
+      "path": "workspaces/basics-workspace/README.md",
+      "sha256": "8af0116647b90138de0665f3c024d6fade57c967c844a31643e57084ce14aa8d"
+    },
+    {
+      "path": "workspaces/basics-workspace/requirements.txt",
+      "sha256": "3df0169a22d01eaf04617d3079c5e998297bad1794f8bdccf3e4907b356cb57b"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/what-is-python/listings/listing-1.ipynb",
+      "sha256": "cff98b984bfbe9e3ddf9b9a51f0215e0543f48e0880272744e17898810e25f89"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/python-default-interpreter/listings/listing-1.ipynb",
+      "sha256": "c1412e0ea171be751ff673a3a14ac1c032b9e3fee72c39bd961ef6fd5dcd7ff6"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/first-python-file/listings/listing-1.ipynb",
+      "sha256": "8aec0872c48fdf77c6aada10848a13c546d9505aa127ceb6ac9f6de3119c91be"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/first-python-file/projects/write-and-save-the-program.ipynb",
+      "sha256": "29fc4f0f54cf7c619e964b815d99fa73b2c37f2449a311bafa4fb6dd37842f77"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/your-first-python-programs/projects/project-2---cultural-greeting-generator.ipynb",
+      "sha256": "38336d0c3f975606160ad746f8ea098c9a2b044e21e4d0c31de8d22508afadc0"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/your-first-python-programs/projects/project-3---timeline-printer.ipynb",
+      "sha256": "3adb57748df191380ce60859cbce24b0cd7afb10a50994fd6a27dd78cbc3cec1"
+    },
+    {
+      "path": "workspaces/basics-workspace/00-getting-started/ipython-interpreter/listings/listing-1.ipynb",
+      "sha256": "626948d1a80c362bd1fb486e6d6a62c2f1eb17d8eb4512a51888a36c8bb93fce"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-1.ipynb",
+      "sha256": "68e9e09407d274c81d2690f56484d7c5e2d9dd1f3ee7e651366b3ebb00fbc6e5"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-2.ipynb",
+      "sha256": "7e05403403385dbb63fed9125f76ba7eac69cd9d0f31496b89543cab65de5dc3"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-3.ipynb",
+      "sha256": "d4149ee5991b5247a430d2d0fe472c8dbe020576f904b1c74457e2c0d0633a51"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-4.ipynb",
+      "sha256": "a131b857edafe5eddeadf2fb706dd86809b258747c720e87ae77e8f349a9d19e"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-5.ipynb",
+      "sha256": "a1bca2e96d8d668f56a5137e667e1bcf67afcbf34e5b258e5476d94c353a02c6"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/listings/listing-6.ipynb",
+      "sha256": "089daea8ab4732307532f0489311ac08af70e2bcf2a48f688e7bd7df1be03877"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/projects/mini-project-simple-arithmetic-program.ipynb",
+      "sha256": "326a6267b8da0c7db56b6071b71bd72af4591ae8023fdeea3d51293b72107482"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-numbers/challenges/coding-challenge.ipynb",
+      "sha256": "12dd56a0f8dc7c3adf272967f726a503abdd68f8e7c937c73835eda206354699"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-1.ipynb",
+      "sha256": "7c45671a36cc3f1113ee0d47c2017c2f9fadacac0ab0eb17153b6e0b5310fb05"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-2.ipynb",
+      "sha256": "4725a5a3865b40a8348753bad5416994ea64608d10849cc97dce8cd2f8d688b7"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-3.ipynb",
+      "sha256": "c3e16f222925f954d10f0919be5ce51e9d1b78b838718fe67b5b277022bbedf2"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-4.ipynb",
+      "sha256": "051b17123a52dc1bd56022c73adf09d216a75c8751b04dc66f95bc4175fb6b1d"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-5.ipynb",
+      "sha256": "aa353155ade627e30a24f78a3ead65b12ee2e2e0e03cb22831ec984dc4a25ef2"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-6.ipynb",
+      "sha256": "55e47e8f047ef5aeffb98aead17dc96b9ad13b9724ac2293bebd27980fc0b202"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-7.ipynb",
+      "sha256": "e6ddf2ae273739ac11b7dab52cfeb679ccab3bc4b89f21faea06f8073f8ccac7"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/listings/listing-8.ipynb",
+      "sha256": "a53a94a3d0feb782c1d02a137480e779724ce4006af733278a76fc918e1da5ae"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-strings/projects/mini-project-welcome-message-generator.ipynb",
+      "sha256": "4926ef8776f5d67b085c96310fcb4330ec175f528f83c5e66ca64b833ab0bdbf"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/listings/listing-1.ipynb",
+      "sha256": "24138200e32f38a3b5562764e37cfbed09eaa6c5f5fb5e4fd0eb46592445c7db"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/listings/listing-2.ipynb",
+      "sha256": "fa9d9eeca913425d8a90ea2829c2bf6dffa29722bcb7ac3e3e8fb7dfc71f8af4"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/listings/listing-3.ipynb",
+      "sha256": "7dff64550781f42bdc974acd245d76ecaa7ad86d3586c574bbc4f7eaa70f62f4"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/listings/listing-4.ipynb",
+      "sha256": "58ce77e013810b7485f0da38e01a2523e1877e1f058300ac08b2b6779eb3caa0"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/listings/listing-5.ipynb",
+      "sha256": "fc68c17bbfa5daa54e73c35c28f2c1c35b416d2dc59f5e624a9363272c78fdb1"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/projects/mini-project-travel-distance-calculator/travel_distance.py",
+      "sha256": "9f2d4338026f69e8e99ab02ee2cd1e509b8bc707aaccde51945dcc924ee1436a"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/projects/mini-project-travel-distance-calculator/mini-project-travel-distance-calculator.ipynb",
+      "sha256": "fc68c17bbfa5daa54e73c35c28f2c1c35b416d2dc59f5e624a9363272c78fdb1"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-variables/projects/explain-it-minutes-into-hours.ipynb",
+      "sha256": "d75ecfa436df1d52c0dc161dc458b385f15adea53e3e6190fbc8990a9ad1abe5"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-comments/listings/listing-1.ipynb",
+      "sha256": "3cbdd7d9fee7899dcee44592ff99398cf4ff8550f90033c7b0c4c828f69a76e1"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-comments/listings/listing-3.ipynb",
+      "sha256": "e46faf3d40dffa2e42c9ad36fb40cc92c3563809f1320eb83894eaf6733e922c"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-comments/listings/listing-4.ipynb",
+      "sha256": "1af2018f80d19a76205016c86fdee84116e26e45444561fdf8783e378f7e98ae"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-comments/listings/listing-5.ipynb",
+      "sha256": "2314690dd501dd36cc660ac86c9a1a16dabab8b956d399140f8b01f48fcdc77e"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-comments/listings/listing-6.ipynb",
+      "sha256": "d267e25ed6b743d2f35bb8b67da6c4b01c2059569fa85ffa494d21619f9a70d2"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-input-output/listings/listing-1.ipynb",
+      "sha256": "9a471b286c92ec8003ba3e1ca539307cf50fa9be7ffb1a498636fc14a4355d71"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-input-output/listings/listing-2.ipynb",
+      "sha256": "f3ece96b85ca8f3361a149dce674b7b78a82c2b95130faca2a7f53958a495978"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-input-output/listings/listing-3.ipynb",
+      "sha256": "1f4ebe2aa5b6d8a426dd3851f44d87cf314090529cbcb2df68eb7a75cc9dece8"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-input-output/projects/mini-project-name-and-age.ipynb",
+      "sha256": "993acbc78d100834f4c63b7556fbcf1146148babae787cc9593eece34935e92b"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-input-output/projects/review-an-ai-answer-adding-two-numbers.ipynb",
+      "sha256": "8c1c045f4360fb76941dcd35c7198946e90612618e2db18f0858dfb413a9a423"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/listings/listing-1.ipynb",
+      "sha256": "3c1a022444f155f91784577a402530f7f8306d35102c2fcecdf3a23ab06aa062"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/listings/listing-2.ipynb",
+      "sha256": "e182914e88a7db7f6a93a58823859f9602b17e9100f46d36e6b2c0e822419a2a"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/listings/listing-3.ipynb",
+      "sha256": "e4d1fd0d862a71c2d13261fbb2b9e49b207e7ef20978bf0f7f6a9f3bdc237538"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/listings/listing-4.ipynb",
+      "sha256": "c56097e13a63d11806ffbee09418e723b7b1615a1990ddb716f93b0c27a3864e"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/listings/listing-5.ipynb",
+      "sha256": "68d76af9642ecb4ab1c382e14d8e2129ba9dc4716ba9377ba46681463b696d62"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-type-casting/projects/mini-project-bmi-calculator.ipynb",
+      "sha256": "8ec234905131d81275bd8adf00686508025d32c028c6f02e927f3aa0d7cffb2f"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/listings/listing-1.ipynb",
+      "sha256": "d00f0cab3a1c2fc2cfb6b01f559d550e66132d31ee58c01ec2b640c40ce04978"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/listings/listing-2.ipynb",
+      "sha256": "5e8e2d349b45c494f6dde1dc1c82ad66970908f87fe33c24924481923ccfe6a1"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/listings/listing-3.ipynb",
+      "sha256": "6c8a2f37830bcbe3c61fdf16d5993768de2cfcaad145ded7856c72707e957f99"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/listings/listing-4.ipynb",
+      "sha256": "b9d582e1355b1defac4bd2b21d927c5a6cd97ccdcbcb8d1ea68b130e8bf66555"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/listings/listing-5.ipynb",
+      "sha256": "c9f20ad8694b836485334b8b328c923fcad685180c6cb41607f7b6af98058298"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/projects/mini-project-temperature-checker.ipynb",
+      "sha256": "13482bed858789f70342770220e5d7fc1d45244004feadaa6a500597874b365c"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions/projects/explain-it-when-is-it-true.ipynb",
+      "sha256": "7a2e908d1823b942087210d0128b8a0cf1774c5296ecf9922d4d4e8c7977e23f"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/listings/listing-1.ipynb",
+      "sha256": "50742956b415978739b04f2b3a337e6cd2b6a5eef96255e0f0abb8368504372d"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/listings/listing-2.ipynb",
+      "sha256": "6918c043c34a8369d2d63ea192f6230e93fc6450e73e3063ff3cbc7296a404aa"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/listings/listing-3.ipynb",
+      "sha256": "286070b66f87f9888225d4bdb1162484415f06292ba7a8e48f9fc5b85921e88b"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/listings/listing-4.ipynb",
+      "sha256": "0c7ccf251a6edd60c31dd1337dfb2bfcdc70a67891d3eed8c22d2cc6ef1bbbf8"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/listings/listing-5.ipynb",
+      "sha256": "9ff1bd99a9289daeeb9feab11efe47c25634f5855aeb83b5e8c6763513b0126b"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/projects/mini-project-discount-price-calculator.ipynb",
+      "sha256": "441f067e678033af760c6b9c69c54a8c4606ee3b576786c5ad8390907bcd4dce"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-operators/projects/review-an-ai-answer-an-average.ipynb",
+      "sha256": "58fa26d11c39d542aa26bf9d83bca8ec1c634555d840d226471f6166847bf904"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/listings/listing-1.ipynb",
+      "sha256": "7cc359e1329a53cd9cb71e2a8dfdd174b68b75e781ccd35eae99d473e4aa91af"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/listings/listing-2.ipynb",
+      "sha256": "bab4c7d82127fbe15d0a3946b1a47153eecf2be2cadcb8e0ed1eed464e4aaa70"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/listings/listing-3.ipynb",
+      "sha256": "d2c241fb274cb0e0ba256297caaed3412131626eb022e0a4226f38eb6fbb79c3"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/listings/listing-4.ipynb",
+      "sha256": "b5cdecf162d315c6f0140d7b343a89328bf79010358fa5f160c48c0afef9e1f5"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/listings/listing-5.ipynb",
+      "sha256": "a3578c1708e9308a857af2a535ae822d529d84230550cf5f8d9c5884162aef75"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/projects/mini-project-bill-splitter.ipynb",
+      "sha256": "6345c836355a042eabe350da77d636ff2a1a930aba5baa6336c07afd90c5265f"
+    },
+    {
+      "path": "workspaces/basics-workspace/02-basic-concepts/python-string-formatting/projects/specify-it-the-bill-splitter.ipynb",
+      "sha256": "60f630127863fb9a0c16caa95ccd7e5fd2019d3a7bd4687a21fffa0eb84dde15"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-1.ipynb",
+      "sha256": "7df504a694f429ff98000bfaf936be7953e49ef8dea38a3d3e68df6019904369"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-2.ipynb",
+      "sha256": "dac5b1ac08cdc0a8e1371a5a9d6c56b47f385aba986a34b12aa34405bc6f6558"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-3.ipynb",
+      "sha256": "38a8320a2ca754be3ed4ed00925c26e1611e3e2d3568c523027a842c2c1db2c8"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-4.ipynb",
+      "sha256": "cad112609b85445899c18f95f3788973ff81d99c83518abbeb06b11642a1446c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-5.ipynb",
+      "sha256": "102b7ed2ec9fe6e772d4cb382443c1dff0b25545f15d914c6e9ab2d726a9f1ac"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-6.ipynb",
+      "sha256": "d7a1a3501ca8a40daa9d72bb7a98bef96aec773545038814674b5de010eb5af0"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-7.ipynb",
+      "sha256": "aa38a249c957dfd14ca9c36ec34818a6ac9043371314825aca22bdc337f92222"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-8.ipynb",
+      "sha256": "804bc5c47476f911aef5853157a4fca8135edfd502b636f2a995eff6edc223b8"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-9.ipynb",
+      "sha256": "c441863ca8b58909b18ed769dcc273a75260dbd4623b11078bfb72b494e48b5d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-10.ipynb",
+      "sha256": "ef28a116f46693a49e4b9c3b540f0063ab3d2f7807a8d654703f6975ef8d8cdb"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-11.ipynb",
+      "sha256": "dd823f47cc8852856c27b6b3a1bbbf8d6b6cb79ac374deb3e0f609047a57f09e"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-12.ipynb",
+      "sha256": "f92561c5a8a3982ae858a59fe60997b3a8285e82740d375dbb3e4b6b3dc08dff"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-13.ipynb",
+      "sha256": "13a1b7f68e89313be984f3581b6539218c8755416c55c3519c361d972f7bdc88"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-14.ipynb",
+      "sha256": "3bc88e80711f32f20d9cdd08a896d653ab21aa0f65b89a904c68d96487b75590"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-15.ipynb",
+      "sha256": "ce04bbc831229a0856c9102b9dde9a0c1eb1381228d00b3acfc53bb89843976e"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-16.ipynb",
+      "sha256": "29f5d432a73766a2e1c45f6b90a4348784b2133ea99a1134bffd4c015669e10d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-17.ipynb",
+      "sha256": "18c3ed78f6b2198c7767c1482cd8b5e969a7176879f1abc9a5e95572dcc77c8a"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-18.ipynb",
+      "sha256": "e2d8e8996f6db4aa45e499dadab1982310a491cb98b2a353effefa6e6c1f80d2"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/listings/listing-19.ipynb",
+      "sha256": "b4bf8214efe0e752ca7ee1f28fcf8c29ff6461dc115af323a5602ce0f7cbd072"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/projects/mini-project-shopping-list-manager.ipynb",
+      "sha256": "2ece1236521fca30839854ede976a3195f7ea786e2d29d986706983b7077196c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-lists/projects/review-an-ai-answer-a-backup-list.ipynb",
+      "sha256": "2ae398192bbff8cf984e44a17a7613196d63d5f29a42a2552244f1776c988738"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-1.ipynb",
+      "sha256": "43bb99a91dc0bab1d9e810996447a41f781e2c7392e96a040403563082952afe"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-2.ipynb",
+      "sha256": "5860d7456c737f851590f5e908cab38f04c9f8c38f293eedea1288d3b75ab42f"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-3.ipynb",
+      "sha256": "ab7ca53399d9b1f4c294bb3917e07d3bd2a3a84e82c52854a8fbbbdeaecdcb2b"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-4.ipynb",
+      "sha256": "f096aeedaae964db64a120182e1bcc53eb8aa45a2024b55589e0d3526a6d6cc1"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-5.ipynb",
+      "sha256": "cd2486a1aec795c64e75a089c700bb214d8183369c4b9b4ae8d8de54d32fc3a2"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-6.ipynb",
+      "sha256": "ed1027d3673a8736c001cf8bc0686b226ae694a6de6f3f4dbb000e6d4159af2c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-7.ipynb",
+      "sha256": "87bd8197929ea6d44b371939e26f2dce2031e5707876879a2a85693bdf059467"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-8.ipynb",
+      "sha256": "d619433db4704395192fa885b4f925391f983cfd88ec5f0f5abbc9229a23fe2d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-9.ipynb",
+      "sha256": "e78ca64e5c183fdf5d42929f07ca2fbab0441d874dc89ea35353ec9eb3d53bf8"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-10.ipynb",
+      "sha256": "b1e5752a2dbaae54aeb77c9544b6bec098d46fa4bebd65bace33812bfa4f4ec6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/listings/listing-11.ipynb",
+      "sha256": "cf16d582960bd4da9741c37832f20c3b98b2718325e08afea835e273fe21227e"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-tuples/projects/mini-project-library-book-record.ipynb",
+      "sha256": "b83194ead0378bea3e05dbd19e5d593da82587175ff872621d691f448593bfc8"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-1.ipynb",
+      "sha256": "d8d2845526f71093152ee59b55f801af5d681ef8af9dc12170a4dc55116d09b6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-2.ipynb",
+      "sha256": "20379dc95b65db6e9a0763f6bc6e6b2d09ec3315fd9140b79126ee78014e98a0"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-3.ipynb",
+      "sha256": "0a9d324ef4d42c3f7988d9dc2c7277b0bb2746d993a250fc04a637cf1b38586f"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-4.ipynb",
+      "sha256": "fda90f271a823c28013c675aa28cae8cde7fe3b3bf5afa70f3385839168f9dd7"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-5.ipynb",
+      "sha256": "c7a27138e8bad3aa395e2d3313afba4e85079638f6cdf1b8e427d26d3d56ed3c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-6.ipynb",
+      "sha256": "46ff859e49ed9e70f6614abc23b2dd57b65df04d9b65b2f6aa83b184419bf9ef"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-7.ipynb",
+      "sha256": "700a48aba94ca1147df77954f44a74d76438bc3b9dae8eb39deeb09fd9bcfcce"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-8.ipynb",
+      "sha256": "8b23cb14ce65809925e972f2588e11d30fa8f95e275abfa47253f0d60ec8361d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-9.ipynb",
+      "sha256": "453c1cf942e9ab4fe0614ce2cca22916bf3fb9ff4eeb142cd03068b2de0ef452"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-10.ipynb",
+      "sha256": "d90f28f2662c7759d486d6b46b6c523f0dbc64af5667a943f3e7a48f37ff0aa8"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-11.ipynb",
+      "sha256": "a7f1d226974df501536d62e95c2238c88c46dcc1fbdf94855f3af3bfd0458af6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-12.ipynb",
+      "sha256": "36f123af497b11f578122b56b81ef11ee37cac49b617d562a83c4d27aa6375c2"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-13.ipynb",
+      "sha256": "8daa9f9e33e57d6abb192f8479230839b05d2a7dc70afafacdb4dd4911c30ea6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-14.ipynb",
+      "sha256": "e582cbc327e4512ba53300017560aef3f716ace7b81cf39811950b6cd836e96c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/listings/listing-15.ipynb",
+      "sha256": "c7f57a5868a1826793a0e802b29940118005548bd77d352bb24600910a0e8157"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-sets/projects/mini-project-course-enrollment-analyzer.ipynb",
+      "sha256": "956aceaa6c6d56444e60adfe31215a4dc278d9cb1b063046743395580f9b545c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-1.ipynb",
+      "sha256": "b63db798a6b036c6b3d95b4e72a99955bfe748f9ee50e5549a0a7a7e6fe38318"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-2.ipynb",
+      "sha256": "eac532baa9cd585d0552dcbc040a65a78862eea0cd62f59e82abc42714f3deb7"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-3.ipynb",
+      "sha256": "dff66b1218b426ccb63556a0bc8a9c828309592907c5f6054e886ecdcee9430d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-4.ipynb",
+      "sha256": "228ae0063b870703c46b9b0e5a4e6c91273da2c21b50f7b281989ad5c0b1eb84"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-5.ipynb",
+      "sha256": "154f96215e160df6f67c99c41693a5ffdebd768eac9128f9a40885acf3d6a27d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-6.ipynb",
+      "sha256": "e24a6c1b67949ec3dbe6e4000dbad9cfa5d70be8b19d16e6fe0cd9a3b21a9a17"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-7.ipynb",
+      "sha256": "0a323e37bdbf107a22a165551ded45d915738570d145e704eef8fb17386f3cac"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-8.ipynb",
+      "sha256": "6f274be1d3d004d04fa11ced30e570a612739dab92bb1ddda0bba404d9055f86"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-9.ipynb",
+      "sha256": "37746836ea5cbd2f8164df31f2b52e16afd8126b530f6450cacb888ba1778e2c"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-10.ipynb",
+      "sha256": "c77b05acd309ee66bbdab458bf9bd1162b4256bc42d612f0f2099ee8a850e8b2"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-11.ipynb",
+      "sha256": "86e10a95e575e0251b7d6e69cbc0e2ce6ae856ef68ac1e4675c939de5fa1f0c6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-12.ipynb",
+      "sha256": "0e267fc4ee244d586b71629695ef2dbd53e712c5ea7259521fd9f1aae5995f7e"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/listings/listing-13.ipynb",
+      "sha256": "f585644995d43ed4c2e6ae024574fad44d0947c701a699428e51da2dc6b7feb5"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/projects/mini-project-interactive-student-gradebook.ipynb",
+      "sha256": "7936ee21507adaa2eded503304f1eb00831b6d220a30f3501f3d378719123ee6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries/projects/specify-it-the-gradebook-update.ipynb",
+      "sha256": "f3529b19c7e1da35429ef24f64ed2e009f0aa514af00cfd7a3e895ddd30d3613"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-1.ipynb",
+      "sha256": "9d2b1ceb258d68c12ae1fe5a43eafab72c59bd68575da2a8afd01059d7638f4e"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-2.ipynb",
+      "sha256": "742d5449cffd90651eb0082766dd23474e7af9935ddc1ac25fdf574b64600d76"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-3.ipynb",
+      "sha256": "583647e646ace950fdd6623874c9a25e06a4d77e399f13be7f25b35935c8f42d"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-4.ipynb",
+      "sha256": "861e4c2cd87ff0166234af6c5aa7943fdc7ebaf3320ce5bd91b2817d3b472ff1"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-5.ipynb",
+      "sha256": "badd219ec24b3665e78ead76e4059b69f4eda6e94df90706870fb48bba1d3f45"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-6.ipynb",
+      "sha256": "fe1ecf1cd07bb0d550a719686e7689f4d1a8e61727afa25f316bac42384eae37"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-7.ipynb",
+      "sha256": "239dbb8368d5136fab58ae458fab880c8eeeb4203939b861224c8e340a847be6"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/listings/listing-8.ipynb",
+      "sha256": "e1492bbb77e6794951c020de388acc51f810b20009e3bb7903cad000b468c3f9"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/projects/mini-project-city-weather-tracker.ipynb",
+      "sha256": "23d6cfb8edff0772d633ad624da3b28d88ce8ca94365f6621b2d6c08131361ba"
+    },
+    {
+      "path": "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures/projects/review-an-ai-answer-a-trial-board.ipynb",
+      "sha256": "96009f311c87e0c68bcd2c22985a4a5f6ff14d6e5399b052d0b86fc17aa87523"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-1.ipynb",
+      "sha256": "7e5f32c5e66d3aa2c1e8401d37f7e0271fcfc262499146f8fc109860cd5d6bdd"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-2.ipynb",
+      "sha256": "45b830bdfc2435760d57c3696a644e356a20cf5b670aee7931279104141446ed"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-3.ipynb",
+      "sha256": "cdd8c5ac5be70922a35b7246b77e04afde1ee13d1f9cd3a2ca5935a107dde713"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-4.ipynb",
+      "sha256": "8f9cfe3405a97d63d0214e7f5ef52ab379e4bdb3010cc3672fcb1a4c35cc3066"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-5.ipynb",
+      "sha256": "e8f5543e9c0320f9b03717cb1dfee70bee4354a717e71ee606949412acab6641"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-6.ipynb",
+      "sha256": "b5d5d8d90485573a7ee16cd0a0a72a6569bd2a08b86030790b34cce095cfad2d"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-7.ipynb",
+      "sha256": "da12412d623da5ca137bfc6b951e10051cb2882790f623d28c6a1d48a4f290c8"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-8.ipynb",
+      "sha256": "5aed4ad9ddc2911b8e6f52e4920850db08110e29411091d06a607f0bafd0d5d3"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-9.ipynb",
+      "sha256": "26a1f6e0a0da6a98e1d64567e1a8c5bca4b8d1b144bb0ac0b58cc2846e5e6d24"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-10.ipynb",
+      "sha256": "2a2a65ce741cb0c1c66abd7f784f6593d71091690f49bbb2048f1aaebccfab6c"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/listings/listing-11.ipynb",
+      "sha256": "aae0594fc572cfe7716901d457d85b4da8073acbe6d580fefea147a70d870317"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/projects/mini-project-movie-ticket-price-calculator.ipynb",
+      "sha256": "97d06b915f8adb3e3c9701bf6e51e692b0841420a535cea480d72e4d78cc593d"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else/projects/review-an-ai-answer-grade-classifier.ipynb",
+      "sha256": "8e15492c41b199f7a89a84fe417e70e0cfd39da9fe4d4e3d0dd537ac436d4b0d"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/listings/listing-1.ipynb",
+      "sha256": "a86de95041fcd47a771651a112a121e60e8488935158ddaff7cfc908cb0b79c1"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/listings/listing-2.ipynb",
+      "sha256": "3a35104cf648fc7688a919a2d973844f05b189d51cbcd368dc5b7beccbab455c"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/listings/listing-3.ipynb",
+      "sha256": "81796cd49d2e4f83e694805e9638c42dac2d828f9532a053567db7072a26316c"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/listings/listing-4.ipynb",
+      "sha256": "376ae4743c47eeae290243c45b057f80355fdb88b3a9262bfe82c85fc18296b2"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/listings/listing-5.ipynb",
+      "sha256": "756ef97b73974612bfa67d6c960adaf8efa50777053fdc3bcb23b50afdc0bc54"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/projects/mini-project-simple-menu-system.ipynb",
+      "sha256": "960237255e3d22a1432bb4ac194b43660626ca413e5c3c9111226cc1ab8daaad"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/match-statement/projects/explain-it-a-parcel-price.ipynb",
+      "sha256": "da04b6bf2cf222f6bed42bb5b4bdcc3bb08f7e2831b3cc293fe431e25c008848"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/listings/listing-1.ipynb",
+      "sha256": "9550544e98bc75e1b467a6a9c5f939c920cbb702383963229b24ea722c68434c"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/listings/listing-2.ipynb",
+      "sha256": "f17bb49c5752c9163fdac01f01b4c02bacd70a843391ba192acff7a3e1a3659f"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/listings/listing-3.ipynb",
+      "sha256": "632b26c51a782f2c03b05324d4ddcf9088d159582b1338a34165a6163ea1a786"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/listings/listing-4.ipynb",
+      "sha256": "0db7b6e98aa53bdf094c4ffa95e092bfd93e0b12ecdf4d55bc1c164fe3df12b1"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/listings/listing-5.ipynb",
+      "sha256": "6b7780df8a631e05c8a43dd0835ab523c8d7b19749b9fc9c1a4727354e029be8"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/projects/mini-project-number-guessing-game.ipynb",
+      "sha256": "32d2e657f469ef06be4bead33ab803985979e164e1d3efb9d9282129c54b5533"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/while-loops/projects/review-an-ai-answer-countdown.ipynb",
+      "sha256": "de43647891f3790ce6e8352aa917754a31bba55d3b774e60d30130d6e8087508"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-1.ipynb",
+      "sha256": "692d7018892ddedb11ebbcb687c6e07428af887ae64a6f16a3b21adc3d2495db"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-2.ipynb",
+      "sha256": "15ea7c11177332694e0224bb29dae4be8b4268c4cb68ff674e6ed847e6b38443"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-3.ipynb",
+      "sha256": "204fa0651df0bc3570bb973269d640af7a9b896c629ca0759b3445cfd7637f63"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-4.ipynb",
+      "sha256": "25c475268054c1fc8c01e39858b9608d2d0f760c6aef3f59c22c30fbd9903a06"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-5.ipynb",
+      "sha256": "1c3648503b6c129f11b2d6059bfb357a5a7dc807dbb6bfdd0b60e0332c6d9585"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-6.ipynb",
+      "sha256": "bf9c35af21bac0cda3679ae3321c63047991b8db291c00e8785e3727e2ade354"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-7.ipynb",
+      "sha256": "97c72de0de83fdafcbd1c71e7bee29970422b6986d257f6a43086525f2581631"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-8.ipynb",
+      "sha256": "650bd13684c70c498b16cd95074d86cffca65411de6ebdc7a9695bd1baa45cc6"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-9.ipynb",
+      "sha256": "65bb531e62b8338f0fe00e45fa2058a431c9e5f1b2eef6e26d537994654f3ece"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/listings/listing-10.ipynb",
+      "sha256": "f00a2083b864a1187d219a6cfd03b2998dddfa88d28aeb47963190d41dc5e2b1"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/projects/project-secret-messages/secret_messages.py",
+      "sha256": "bd04267caa9479854fb87c550d6abf49e003bf5cd16519f0a210969a7cad30ff"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/projects/project-secret-messages/project-secret-messages.ipynb",
+      "sha256": "3d219f65765dd082bb82ccb4ebe817d0e96d011a4f8f1d5ecf86da0772ba561d"
+    },
+    {
+      "path": "workspaces/basics-workspace/04-control-flow/for-loops/projects/review-an-ai-answer-sum-of-1-to-100.ipynb",
+      "sha256": "1d82bf674c62edf339f6e55d7da31749fd73d9f6c188ff0ecbd993cbe796f23f"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/intro-functions/listings/listing-1.ipynb",
+      "sha256": "418e1f0196517cfe0e26b148072d80d97ce94eab47499098ff8e438c4f0c1284"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/intro-functions/listings/listing-2.ipynb",
+      "sha256": "6946591dc7f0c22824ee1873ceea1cf2be554d4e0a04306855a936f517e5f33c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/intro-functions/listings/listing-3.ipynb",
+      "sha256": "b6dfa4193311186d3ea756709ec9d29a8751f6c94cc08015e6098cf09edb69c6"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-1.ipynb",
+      "sha256": "01a64905ff377e0959907b0ce56a8e0dff2955277db670a29ea9ea608b07e311"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-2.ipynb",
+      "sha256": "857e8b21bfae4e273f64a481f2efb9f304ebc39b685cac68c047bf507c4dbc44"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-3.ipynb",
+      "sha256": "e4295241e3f4df72ab2ae0a0a8f53e2a5c3c7ab2aa28e21a45655942d08d7f9b"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-4.ipynb",
+      "sha256": "4cf911ef455ed72c1579266dfdee75d8089c78da971946b56512d66430e48cf9"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-5.ipynb",
+      "sha256": "d84302cfe64dba9a60a72fff2c54af00d6d39e8f771cb957a41342218d972561"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-6.ipynb",
+      "sha256": "aa2b6298386d35d10be6e1fd518e66d0fc96f9f18975dfe31742b583a7e4f8da"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-7.ipynb",
+      "sha256": "dfabb68faebed8013effd586b04b17680f4d469f3c21b5eddd4e5be9234e2301"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-8.ipynb",
+      "sha256": "76941010a7d17688fa217ff7bd619ee4de6d2b0b98f93b7ad4c7a9c45b41f346"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-9.ipynb",
+      "sha256": "ec15bc7edf5eefb1ed278217c40c548f721ba70cbd83031d679646650071b036"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-10.ipynb",
+      "sha256": "7da7991ceaec8700592e75e415de47295c1fe95c05f39609633318bf0ff1fb56"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-11.ipynb",
+      "sha256": "c4acf00c277b8f8266041bf89dfbdf8c70686608b0637a8973c860680ca5ddf3"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-12.ipynb",
+      "sha256": "1c535767bf60826a4bfafb0b6829497dbebdbb5153ac0441236ef32e54675b4e"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-13.ipynb",
+      "sha256": "edf16e5d2358c9d5af2477586e1a1e7bc7c649869547bd4858731208021c9a3c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-14.ipynb",
+      "sha256": "51017e6f3a76a7ba9a6e924e0afbbffaa69dc2be83857deea8b0e1391ca7ca75"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/listings/listing-15.ipynb",
+      "sha256": "d24e760b599ef0f848a6be5d96f71e77ac977e2901941247f094207a12745c57"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/projects/project-tic-tac-toe/check_tictactoe.py",
+      "sha256": "a57a4c6bb305b44cb1fafafbcdd8c65ec4f8f74f290066429c0f7d119864b190"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/projects/project-tic-tac-toe/display.py",
+      "sha256": "1995416516c01d0095deb17d5a8e29067b2b669e5fe0d3f3b78babe19cb4b24c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/projects/project-tic-tac-toe/kcsgame.py",
+      "sha256": "f974f289a382a01123d913eb3a191541dae7c1052364f3230f337ce065e93fe8"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/projects/project-tic-tac-toe/rules.py",
+      "sha256": "c878fa6dc31d01bd3fb8c8d8bcd5dbf5fd33d0c3af7fdf5f96202f90d2d90b5e"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-arguments-and-return-values/projects/project-tic-tac-toe/project-tic-tac-toe.ipynb",
+      "sha256": "59edfde2b9a56f4309e479b2ade62616e77796210375d7a62fffb57605f94c6c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-1.ipynb",
+      "sha256": "daf99c0ceca206c150cca3915641c0ee257dd72375c01fcb6e8dbbbaf32807b5"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-2.ipynb",
+      "sha256": "37f88de496b03771e50377d698eac1ce5e7eb59b7d06b5c2405fc2e4cfe8e797"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-3.ipynb",
+      "sha256": "3941a50c9b9455d6d4dd61e01fa92f5c7403569d84d5e5b7556f85d31c7d441c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-4.ipynb",
+      "sha256": "fd1b9d6d551046d4e6c62a793c03b8e4befe6068fe93e64b3b6fae2691bb07d9"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-5.ipynb",
+      "sha256": "8d682ce833b7dc1ddc4d0d2f056bd37064f1036280b4343ede0888749023eafc"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-6.ipynb",
+      "sha256": "a86500818f61a3281a2d0f1fb1337d4198e270d56f237faf1ef1440a9e35ec46"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/listings/listing-7.ipynb",
+      "sha256": "81776452a7f689e7cfbf11aad8324ece43e36a1cfaaa9097710810c5293d121c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/projects/mini-project-student-record-formatter.ipynb",
+      "sha256": "55b7dda35c36489d3e16440e9a0371ffa35eafbb1d86249a77e88b82c5974be0"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/projects/review-an-ai-answer-a-shopping-basket.ipynb",
+      "sha256": "8da3dc4a91d9474d57801674c250f6c59cfd8831f9b814975e3b76cbf3bf6ba3"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs/projects/specify-it-the-student-record-formatter.ipynb",
+      "sha256": "8b96376cba060e8a653df235dcedd8ee3e94fa9d0bb5a8b7e99cc5439bbbfaa5"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-1.ipynb",
+      "sha256": "8cd015823fa744c7f8c58a49faacf70de59a478cb9a001524c656b9544067a65"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-2.ipynb",
+      "sha256": "56b42cee5b0ba0d2579175dbb6a8e17a8953f7bc37fd469503e1fa59d99b9ebc"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-3.ipynb",
+      "sha256": "a39dbe1bb79ccc892333d0f627fa1603ed1de54f9867c7139b6d5dca8447f4a5"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-4.ipynb",
+      "sha256": "af3b4548deb9fdb8c285068b23b4951a004c9dd52b315c210ffa6ce52e8ea66c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-5.ipynb",
+      "sha256": "cc220154f7c3b7b13c03dfdcd13d217140fab9c7027bd439d8189774cd47f9cb"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-6.ipynb",
+      "sha256": "6c4fb4268122f5aa41934dacfc320a6f55570b9b3b75f37d753d07f59af79c37"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-7.ipynb",
+      "sha256": "1d6613a74c4d7faa2577f9f06d3bfb701ce9955850b193890472324c7287f74e"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-8.ipynb",
+      "sha256": "f40ce80a34f019d8e4330557628fb5058acafd43cb827d8a554b4239015a5eb7"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/function-scope-and-decorators/listings/listing-9.ipynb",
+      "sha256": "f821eb6d28cc31aff062a322c3287b87fc294576d086112d6a6b541a987682be"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-1.ipynb",
+      "sha256": "26f0018e0622b1e59a84d0ca76359f85fbe86f8db23561f2f6bae7c3ab810a33"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-2.ipynb",
+      "sha256": "0be27ec1bae71c4c2570797cd52e1eb0ce20b2899a455fd281407eba4ff11ed5"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-3.ipynb",
+      "sha256": "873702a732f1f10cf9056f9516b8d81917720cbcfd06a155049411337da887bb"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-4.ipynb",
+      "sha256": "024e012496465b43336933c25d660de7eca19a764694714faca61f7588a7a90f"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-5.ipynb",
+      "sha256": "6e4f5a27f7d292dfc7ea309744a6d9d3cb7d67b09b1474e5ead11e24f19fde94"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-6.ipynb",
+      "sha256": "e8c1a21adb40f5f54d741b1c934cf7fdb9631f9f782f32dd8737cebdafbe6b11"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-7.ipynb",
+      "sha256": "0b39a447f8cbbb5c1d7960398c3fdd30ae6675a77dc95aa919c002fdfd44d3cf"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-8.ipynb",
+      "sha256": "4fa1e70edce85f182d7228f64099bca8d75c55bc6da53c15225874b4604453bd"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-9.ipynb",
+      "sha256": "9d306dc6fc136dfd09243757e47ded43ccd146b9e739cfef650780c3a6c96dd2"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-10.ipynb",
+      "sha256": "8a2c297f7b6b38868572d7c4c38f9a75a6627956cf9679b65522b45de264cde3"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-11.ipynb",
+      "sha256": "b0ec569a1f42733cde7c1c4ac371e0336d2a9eb07f78e403768a8cae6881a49e"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-12.ipynb",
+      "sha256": "1744d73317bce2f86ca748848e4e62c9a8544642906a695225490036343d5f6c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-13.ipynb",
+      "sha256": "1c334529ff42e69959d6346ef68c622c285b074e5e94fac75cbb95b21923a839"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-14.ipynb",
+      "sha256": "ba9a90e791de0ff711ba321e27446264ab819c21b84c536e7cfd93a2604e78de"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/listings/listing-15.ipynb",
+      "sha256": "d7f1d99e85123e532ff3bf6982441c68fc1d6715ef6199a910cddfbd4414272e"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/projects/project-dice-lab/check_dice.py",
+      "sha256": "562243834f1f72708bc17fd13fd7f0c64185d236a9f7edc30ed1e1fd9bee5075"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/projects/project-dice-lab/dice.py",
+      "sha256": "d605ce77c00b011af37ce2379241d4128dd04c76b9eac4db8dc4adad36324be5"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/projects/project-dice-lab/display.py",
+      "sha256": "b9e36593cc8a91192e1cfe105cb7acba62f6391bf57f0ed327a271b5f7c33b5f"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/projects/project-dice-lab/kcsgame.py",
+      "sha256": "f974f289a382a01123d913eb3a191541dae7c1052364f3230f337ce065e93fe8"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/built-in-functions/projects/project-dice-lab/project-dice-lab.ipynb",
+      "sha256": "e69b69797f492324ec73316fd5c19dff75e4d5655390d0a8e71fce222662ee97"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-1.ipynb",
+      "sha256": "9ef7a9396ea9e070618e28c73481cd1fcfe51775c941d6afc5e44e78749c7c8a"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-2.ipynb",
+      "sha256": "710f5a215e90e9665625599d4b4938501f1c820c0f577af20f2cd7e35ee1127a"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-3.ipynb",
+      "sha256": "b005d26388317b0d33bc6e21ece7ce0097b3feebddeb6e64d32a8f251d505c0f"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-4.ipynb",
+      "sha256": "bbe71f9d1cbba8e39a89016afa0eb97027cebc784c58ef056ceec60ee4e7c9ab"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-5.ipynb",
+      "sha256": "6be5c1325139d33bd5c140d3ab30bdc0354f22a018f42c005a0cb19227b0759a"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-6.ipynb",
+      "sha256": "85b06129435cb4e02e121aba6b9f0a3d9c96f1d64b1130a3b6b0038a5707f850"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-7.ipynb",
+      "sha256": "0c40dc0e7cf37894081d63a91635e02f4583a7196d94851a97247638a9b4e547"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-8.ipynb",
+      "sha256": "63d9375da0f96414256643d17722a9120add7b2c531b3f7b810fabc05a863c9d"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-9.ipynb",
+      "sha256": "4d060d237c0278095c01ea8196a674d89199964b1ffe6a6dd4b0a1420cce1370"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-10.ipynb",
+      "sha256": "ae095e429f12ac18c447344835924870dc419d4fff4fbe5b5f34a9d273e301c4"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-11.ipynb",
+      "sha256": "aafcfcc5e43c5427c5bee4cb8ca4512e13cbf3898cf548b531b6138a91376e45"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-12.ipynb",
+      "sha256": "3d20f4499ddc51aeb248b761dc7cd53be07e71457d074d7321d8193ab534246c"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/listings/listing-13.ipynb",
+      "sha256": "115d01086ab5edc65ded67d7d3dd54636accbe4707feff5fbf87c8bac3878771"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/projects/mini-project-random-quote-stream.ipynb",
+      "sha256": "033d244e1f9c18c73f306e24bd1daa54e9578385e1211f7e53a843671a7a8696"
+    },
+    {
+      "path": "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators/projects/review-an-ai-answer-a-countdown.ipynb",
+      "sha256": "91295ec7d65f876a779633bbb3f2d0a941289ec069b982c7d68c0d5e4a2e6d02"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-1.ipynb",
+      "sha256": "d092ba899365c90a0e77908329076cca36c401756f0a1dc7c346e8aa3aaca1ce"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-2.ipynb",
+      "sha256": "31dd4ca28b0969c8cf0d060b41f66691a751d39096de77b622b6011ad8e49b66"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-3.ipynb",
+      "sha256": "af99cf6cc26fadd1207c5c3567d53442130775956bca72f8c835ea61c6e4050b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-4.ipynb",
+      "sha256": "39cdb3a0eb46ea001cb36410dc58797c43684695257eb94ec703e7233f37969e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-5.ipynb",
+      "sha256": "23207539c30432d8293f5ab12620972f057b51e5425d969925bb5664b5ea8219"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-6.ipynb",
+      "sha256": "320ff670842df353ab46f9a5be55c32c065d584fc1b8ea8a714c4b3f259be87e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-7.ipynb",
+      "sha256": "ead216b5201b51cffa8c935609757b583663c00e6c2858424476ec2a08047d93"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-8.ipynb",
+      "sha256": "b4e071ac82a24290a02054df1bb065c4b8756d5404de80afdd2cc0737f1ab12c"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-9.ipynb",
+      "sha256": "7622842b9cc08c066d5ff1edc8374250ffd49fc74dd2bea98f9bdebb527500a4"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/listings/listing-10.ipynb",
+      "sha256": "342d0e0b7701cf0354089dfd417145b18530c4bb80c6c0bb14192226e6ee75b6"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/projects/project-weather-station-summary/cet_october.py",
+      "sha256": "4f0b5230fdfb9e3c53233a55baf60f3691b5410a6f4399f27153a9b11fbc258a"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/projects/project-weather-station-summary/weather.py",
+      "sha256": "286615428eb280783aefc4da14201a0e1d3a9188ffe881b5eae5764f0e7af5d7"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/working-with-modules/projects/project-weather-station-summary/project-weather-station-summary.ipynb",
+      "sha256": "f3cc1b08dd34eb32b0b6498afa0f03b004fe60abd4d7126638ab442e1406bd6f"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/datetime-module/listings/listing-1.ipynb",
+      "sha256": "7a38b5c8e4f23fc49f62aa586941f77e1cf6acb9e64652376c93f77acc386e9c"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/datetime-module/listings/listing-2.ipynb",
+      "sha256": "9dbb17b01d22b74a78b2b43fd2395f093c04893fe16be4f9734219b03879ca7b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/datetime-module/listings/listing-3.ipynb",
+      "sha256": "5dbdba4845b5f81551d861d8baa2e32039e92f769824d4d19df10ed0b9d0ab6b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/datetime-module/listings/listing-4.ipynb",
+      "sha256": "2e3d176ab1174c0f082195f9f08b70b3848a26c9885337062bf8a333a01cff17"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-1.ipynb",
+      "sha256": "e374d9b8c6f34b4d4243ebf4a642d3a604534e1c9bb9ddbfa19aa8400822fea1"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-2.ipynb",
+      "sha256": "b006ba1741f2976b53522d6b5e94ba63baadf92dcea8c37ca2e8b6d2a8876e11"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-3.ipynb",
+      "sha256": "443f6fc9089eab0b8667f575fc1737e796bf55fbf75a5887ae8a2cb55592544e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-4.ipynb",
+      "sha256": "1bc3e9e49c85d1f7e022878625d9f827af43c1dabf414b4181974acd1a1442ed"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-5.ipynb",
+      "sha256": "210a9980813bfc2e486ccbe1231db7db4266ed7e4bd65f1801347424faa893a5"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-6.ipynb",
+      "sha256": "2867d032433f779fcd820e4d8ab4fcd8d9087ddd6f4ee0d198e9c8b2346f3af1"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-7.ipynb",
+      "sha256": "89a529475793909ba4b4f7551b1e06b89b663a24d32d2c332d8b1c312be26f6e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-8.ipynb",
+      "sha256": "0a7ba9bb15bf38cbbfffd3acf6a16e82f0522574231dc390ffeade86d8d7224a"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-9.ipynb",
+      "sha256": "059b2b31c036484f6065ab1c540e5da427893a971d4ca09200ecfbad9f1bb38e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-10.ipynb",
+      "sha256": "1dc82ba1e457eb234ecf203eed910b40027de4f57cc044396faa83eb091c2919"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-11.ipynb",
+      "sha256": "b5b062d437d743433cb3c9d240391ecf2e8f260a1f8d7369f570bb7c592cd5f3"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-12.ipynb",
+      "sha256": "1b2a8e20332dd02d199f640a81d67c88bb2fedb0ae411861a7cf63f6cdaea35c"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-13.ipynb",
+      "sha256": "0d1342a244da156a424ea68eb63c0ce45d9afa54c013bd710c100f6b38de6fe9"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/listings/listing-14.ipynb",
+      "sha256": "f99517ef6e64a34394e11de5046a16754932c8fb3c01bc504caca1cd510b4705"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/projects/project-paddle-ball/check_paddle.py",
+      "sha256": "3d874bde5dfcc5df86edc2ca2e701fc2013b59769e5801a7e48f8854d4934193"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/projects/project-paddle-ball/display.py",
+      "sha256": "9f414faf37830b6308363cc0112db548d5dab8afb88caed527e40cc0e01e47bf"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/projects/project-paddle-ball/kcsgame.py",
+      "sha256": "f974f289a382a01123d913eb3a191541dae7c1052364f3230f337ce065e93fe8"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/projects/project-paddle-ball/paddle.py",
+      "sha256": "ab277fb0d370b35892fddb097637e2257a53a56c4cb41078caf5dfdb298803db"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/math-module/projects/project-paddle-ball/project-paddle-ball.ipynb",
+      "sha256": "46d949cf0fd32e1dac0d2f5dc3274e9a6bba1d200cd87371be2bc3e39b98005e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/listings/listing-1.ipynb",
+      "sha256": "7efe41917c7e2ed2644a677ea4e4a7a396caf7a5355149cb5e9aa1543207bc3d"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/listings/listing-2.ipynb",
+      "sha256": "69bada92a97b2ca47827adb29da3cf9f6a2b5d61fac5ee8974942afe56b6c98f"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/listings/listing-3.ipynb",
+      "sha256": "23f625c04dad6aabcf7c286142bc049db5f20fd868d009cd699af2ae15e6892f"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/listings/listing-4.ipynb",
+      "sha256": "d996ac96dab66e39d175ae4c81762ee5a822ddafcfc09eb5328e1774e92455b2"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/listings/listing-5.ipynb",
+      "sha256": "5ff2fc2c959d3b9aaaf79a7d118d299a258dbbf8672b59ed811cd0e65917166b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/json-module/projects/review-an-ai-answer-saving-settings.ipynb",
+      "sha256": "5fb98d17074a4f98619637be1dd49224bc7ff7917904f585826b781861e67105"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-1.ipynb",
+      "sha256": "0c4d050aac43f4ab375061eed9ff17f8fac9295265e4de5e72f9c1400f514e09"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-2.ipynb",
+      "sha256": "ce6585c459168b4cdaa06adc511373f7d6c75a305a00b9c31d9a4900cd1756ad"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-3.ipynb",
+      "sha256": "89d08ccf6bd8615b98b3870ebf8c5a4c2063af400d357ec2bab1bf1056d44b90"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-4.ipynb",
+      "sha256": "0254aa0e5d47819eec37e3f9ff7d99590356722d204f1d9c56ef5bcf1adee8e3"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-5.ipynb",
+      "sha256": "45f2f443e0e2bf88c53324d9bd917fcf8a9ba90ac98f33637d14244f48333264"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-6.ipynb",
+      "sha256": "6a02d2d8813a991c0a2343bc368683a90cc0cd24f770b03309ad63ac4630ab6c"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-7.ipynb",
+      "sha256": "5b7c04309a582a5aa4aab7798dbc5dc6a0ea682aa9b5c14efed75beab8387055"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-8.ipynb",
+      "sha256": "a8db347ba1dddac0be116f7e4cdec74547ca176526b6b0d1a978a7fac2dbf010"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/listings/listing-9.ipynb",
+      "sha256": "3a02abac369fa40b8503df819773b72802ddca9cebe9153020c213dbdb486548"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/projects/review-an-ai-answer-an-e-mail-check.ipynb",
+      "sha256": "2948d6442f4140dc2c91b324dd3492bf45f42d1fdbb9761122eeb269f195b13e"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/projects/project-letters-archive/archive.py",
+      "sha256": "edfc7c4e41d3603db27cacc0c3c0d1a2f1e36b6548492c7892d2ac8b19f7e865"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/projects/project-letters-archive/letters.py",
+      "sha256": "fa8b1ece8c37ffc363fbe4fc3cf9be0a874f8b068f06ab19e71595c8efb50dce"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/regex-module/projects/project-letters-archive/project-letters-archive.ipynb",
+      "sha256": "a145abba821f83ce6cb569e924d909bfaa8517db4e1b659e7976601a08a9dc8a"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/pip/listings/listing-1.ipynb",
+      "sha256": "4ab32626c44acbfe43307a89dcb3d08e00ec088b6f1f942be50af49d17491664"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/pip/listings/listing-2.ipynb",
+      "sha256": "ee3a4e01ee2a46d665d725ba4ccbd70e465ba0aa1f11b460f92a55ce8504c1b3"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-1.ipynb",
+      "sha256": "ad1c75a6f6499ee8c7d60ab6cc9fe6dad64e5702328bc474ad484c049c3dc4d9"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-2.ipynb",
+      "sha256": "a5b0e0d0b507be0dbf930d1ca1f1c04f079f9e7e7013acd0559ec82ac68d2d4b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-3.ipynb",
+      "sha256": "1d011ba6e7826d9a01e6c8b5e4c7abb5d92789fcdc0769c8d3b7a56d18fd3159"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-4.ipynb",
+      "sha256": "7aff8fa11f57f28f523ad4aa32d922d4c3eb72ebe8c59086e362fcc04ba40c73"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-5.ipynb",
+      "sha256": "a1adb97adf5b4af313060d0384003fdb42c35050803398ffce93a17b4bc92391"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-6.ipynb",
+      "sha256": "5d49829629bb04e42ce74cd48950f8622da981c680ba009d88f8583c327e9cb5"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-7.ipynb",
+      "sha256": "ca6fe04b2d7baede1b3eb8444f58d10cb82fb78aee0c695f41a34f415db27793"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-8.ipynb",
+      "sha256": "d94c666c546f53c1317db445d2f546deb7d6ef08436906c6b04aaf9dea27e7f0"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/listings/listing-9.ipynb",
+      "sha256": "cc005903d151f5fe3d8627b67cd112b6428b74b962d8cefc1ab99fe1433af85d"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/projects/project-earthquake-explorer/README-data.md",
+      "sha256": "c6b26b5d2f42c8e3716bf2c506137e215dea5e91eca57fa4aaa7fe9ca2b0eaf7"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/projects/project-earthquake-explorer/earthquakes-m4.5-30-days.json",
+      "sha256": "97118578ffe67dd36854c7c4c7d9651ecc3b5236221c0bfdd3b1961bd45f92ef"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/projects/project-earthquake-explorer/earthquakes-truncated-copy.json",
+      "sha256": "8c8c78b59871dfa40572eb49804cfa57a12fb489407aa8051998de9d7238b7b0"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/projects/project-earthquake-explorer/earthquakes.py",
+      "sha256": "382f694464cdb17a86e28163e24e5f81e9112373d28c9cf1005d1302609f473b"
+    },
+    {
+      "path": "workspaces/basics-workspace/06-modules/try-except/projects/project-earthquake-explorer/project-earthquake-explorer.ipynb",
+      "sha256": "5c119c19a7855a2e05349bce4a255aa42805ef93a3e42517bb2e01001939980f"
+    },
+    {
+      "path": "workspaces/oop-workspace/README.md",
+      "sha256": "5ace728a6dafaa0b8c4c8c1a048d8e3be0e219f3f5d39f2020bf326bb65d5686"
+    },
+    {
+      "path": "workspaces/oop-workspace/requirements.txt",
+      "sha256": "3df0169a22d01eaf04617d3079c5e998297bad1794f8bdccf3e4907b356cb57b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/what-is-oop/listings/listing-1.ipynb",
+      "sha256": "4863afc243456fb2c0114edd6b150b5c1ae181a808e84c5367b38f77c28663ec"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/what-is-oop/listings/listing-2.ipynb",
+      "sha256": "fb5f3d87404908bfedc51ffbc7f19610f2305a8c76d8c1dcfa6346991514d32f"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/listings/listing-1.ipynb",
+      "sha256": "91ccd94a5081c6ebf14258d37063ca48f0a40a6b62f022a97416944e49e13e6e"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/listings/listing-2.ipynb",
+      "sha256": "7e76e04badbe89c3b8d7a37c20dd6d6fb83e8a201b560617d6c778befaa7fe02"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/listings/listing-3.ipynb",
+      "sha256": "cd9b4c7b4583c1ef7a7d335c58c13e5bd4d40787907f330d40d0f5ff9c363049"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/listings/listing-4.ipynb",
+      "sha256": "a41150aa35abb8d0355195b9e5a76998ebb5fc83bc731318b8071102425c2db7"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/listings/listing-5.ipynb",
+      "sha256": "24fb5731a3e6fdc43521c33a13d77a669ca2af72555f96c5b83e0ed896eb1d46"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/library_stage_01.py",
+      "sha256": "6967b562aa3cbc226a396a568bd9aeb27d10760ea2671b3a52f781edc2c099d4"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/mini-projects/library-project-01.ipynb",
+      "sha256": "8939d2b92b17680b222256a0b12495b6980811933cd62483f218c7a3a064c6bc"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects/challenges/pyfp000-l043-a01.ipynb",
+      "sha256": "78f0f23a5c48836b090bc2a3411bd33d8c7416ecf22ceb4e21103c4358f16b50"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/listings/listing-1.ipynb",
+      "sha256": "609fb3943f47dc5ab9c4ffd956c85f25da34f7dc17a817231c56570dcb169067"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/listings/listing-2.ipynb",
+      "sha256": "04390ce265b2c0c453d234d2e387d768616b6dd8ef78a15538649ae3b1041056"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/listings/listing-3.ipynb",
+      "sha256": "3bd59c6e96beba1612bed90098d091b249ff0f529adee9bd1a0f53009bd2799c"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/listings/listing-4.ipynb",
+      "sha256": "39fe58414be29744fc45ccd7e02b646e60a7b80c8ed4b2b279c771a81900f31b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/listings/listing-5.ipynb",
+      "sha256": "f193d893c9863f3f978485244a79821a0cc69eaf0e649ff70ffd99ef244be45a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/library_stage_03.py",
+      "sha256": "ea68b536b9bfcc67b981d1a0a67376412bc95360d8ba76b6eefd6969a05d0496"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/mini-projects/library-project-03.ipynb",
+      "sha256": "3ec7e7a7be0335c9318ed876a0d39e9f8b3a7fa09d038782bc8e1d0881ce751b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter/challenges/pyfp000-l044-a01.ipynb",
+      "sha256": "8e38d475e03301833bc471b1ca890b2532ff3a4dd4de50af8f6ee1ea225783e1"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-1.ipynb",
+      "sha256": "75f406060eb93bb482b253587b19fa3ef9c2a8e8f87108adc6a767eb5139adb9"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-2.ipynb",
+      "sha256": "b6f50910d4636c28c6eb2a413da41cc5d97fa4db6f5c3a3465ba0c71e416d62d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-3.ipynb",
+      "sha256": "316b01a4be782f7937fd9c7204f1813808b74f1628c777859d7ab60daba30b59"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-4.ipynb",
+      "sha256": "e569b8ba7fb5640ffa6433568504ff8dc801ed2e9b0f84bc130b378aab064d65"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-5.ipynb",
+      "sha256": "f21db0cef2193c771856e6d8d101b5f9c977a68bda5bd56e19dbe3823e8c3bf5"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/listings/listing-6.ipynb",
+      "sha256": "51de692f35d5e8f5b2068b6e44d673124d408dd32ce3988736b5b04b038d292c"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/library_stage_02.py",
+      "sha256": "6443785dbb2ba23b00fc0d0bc05ad51594aada35a173dea4fe24233b9b8cba29"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/mini-projects/library-project-02.ipynb",
+      "sha256": "a32c9995c952954c4ee27f2ced1e4d2ad57339ef2d7f6cee2c2fea2621b006f4"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods/challenges/pyfp000-l045-a01.ipynb",
+      "sha256": "c17819e8c77ee52599b7ea0bcd876d820eede137069dc2e5e6967fc47697fe6f"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/listings/listing-1.ipynb",
+      "sha256": "9b2d02279cc9ee94fe9cdd54c0aedf98c67c3aa515fa0cdc48d95c662efc1329"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/listings/listing-2.ipynb",
+      "sha256": "f41dcd03418ceb2de5708e3d0153b8f794f272d3a106062750d27e1a65123789"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/listings/listing-3.ipynb",
+      "sha256": "52abd615d28af51b9333a03ba64f11d642fbd6840109867e2ac66f56f0e6738e"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/listings/listing-4.ipynb",
+      "sha256": "a02dd83330badd294fd061adc215d508f58a049fa499ea2cb1eed69654a020f4"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/listings/listing-5.ipynb",
+      "sha256": "5939881c5736f9491eeb0e6dd1e697ee8b4b40721e049610f5a32a2499cdccab"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/library_stage_04.py",
+      "sha256": "a55ffe6f54631839d21a1c9294326d75397320669b82baa78c9e3183ab1c7d03"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/mini-projects/library-project-04.ipynb",
+      "sha256": "35b43a877a65e1a55193000250c47fb8979bcaf0a1916f51c16285baf5ffc3ca"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior/challenges/pyfp000-l046-a01.ipynb",
+      "sha256": "02b98344336a2a946369855dbbec4e321cdd0f001db9873f4d6eb0e1ef4af4aa"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-1.ipynb",
+      "sha256": "82f194b02619f9d6254b05c4c68d4d491270f61246c6ffacc3f33d572082fba9"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-2.ipynb",
+      "sha256": "43b8c089c68d3b9d35e43f1c4f5d9e29022ce279d2e28b07833c95243afc6616"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-3.ipynb",
+      "sha256": "3773f93f1b120c22462fb89008bca08e69520c6f3c384ce7fe9471ffd573ec72"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-4.ipynb",
+      "sha256": "c1181dabcc545ffc22689c38d12401d60c74e6f8815d0514dfc1fdc9c01e27e6"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-5.ipynb",
+      "sha256": "8c0d8d171b8d37988012823d2ccb7cff6183d3a7cb25dba01f8d912732371445"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-6.ipynb",
+      "sha256": "8160b13849703f5f44ef627ad5cbde3f74807557c1b81bfd158ee423daf56abe"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/listings/listing-7.ipynb",
+      "sha256": "9f4f77e48dbe7906e88f10291c90d1100191638ca103769f36f0a1bae27bbf06"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/library_stage_05.py",
+      "sha256": "2a4b84c1cba255e9e48585b214ee72832854d298e7dfe3a2718bf63e874a5883"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/mini-projects/library-project-05.ipynb",
+      "sha256": "e30700e34e140d6e651dddafc98543926d3f0c4428fc56f87d11beffb8b7ee9a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/challenges/pyfp000-l048-a01.ipynb",
+      "sha256": "7807c6d8b169996869eef0d25800f68b853bbe8cce27ba8af3fe2791870f9a45"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes/projects/pyfp000-l048-a02.ipynb",
+      "sha256": "e6b46a8b3fa77929ea29c0daadc5c1af792dcb0978abc48f814cc1844711f396"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods/listings/listing-1.ipynb",
+      "sha256": "ca5cbb79d67d8574ee69ab11471a99d53414fbad455bc6f6567fea118ec0d033"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods/listings/listing-2.ipynb",
+      "sha256": "d6e85b8154be869a789d29e4ad2df7a9ea62e65fc06acc5fe2020802de7481c6"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods/library_stage_06.py",
+      "sha256": "b77be74b92155366a422713dac4d9e98e34c12b4ec43fea27591a3eae97e1e54"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods/mini-projects/library-project-06.ipynb",
+      "sha256": "6c0512b07c8c5869e7bf7db66853e9ea66bda2065df4558b56b2666f51c26c9a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods/challenges/pyfp000-l049-a01.ipynb",
+      "sha256": "de08cb0c6fabec60d9ddb747dae6d87be07ab8f46fbf518b7b694a4207c1c832"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/coding-challenge-tracking-library-books/library_stage_07.py",
+      "sha256": "691d411c5507db14f6c3acad8b453fbb9e92218cb2a0f777075a451582348001"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/coding-challenge-tracking-library-books/mini-projects/library-project-07.ipynb",
+      "sha256": "10f9b06e93b1bcc029b287f82bc7983d9e8fd1a3aa08cf58fb1b325e1fb48d24"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch02-instance-and-class-members/coding-challenge-tracking-library-books/challenges/pyfp000-l050-a01.ipynb",
+      "sha256": "0abe714e78f524a9e3ba1c797685154f71c0473888ee3630c3b0338a716db720"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/intro-structuring-code/library_system/library_model.py",
+      "sha256": "e73ffc74333ecb3e717c3f46ca979fa1afaf669348bb254592e3340f4a2ee607"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/intro-structuring-code/library_system/main.py",
+      "sha256": "c440ab3b0c9fabfd3b1cab48060d569159b96e717301694fb5bac36897de9433"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/intro-structuring-code/library_system/notifications.py",
+      "sha256": "5da52d549b9a7aeae4d5fe8d1a97370bc06e312d8338908cf82356d75ea64a46"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/intro-structuring-code/challenges/pyfp000-l051-a01.ipynb",
+      "sha256": "781ee35d7563fcc127d9f17ffbe5fd215129515a1552318791a217c38da93ac4"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/listings/listing-1.ipynb",
+      "sha256": "12402c048ddd060afa76d219fdc83d1d87d3a341f41e262c903cb5d849fbe10b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/listings/listing-2.ipynb",
+      "sha256": "6ee7cab67698f2b93ace1aa27611b4bfe4a6cc6c500309d70c947d00d9adf7f9"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/listings/listing-3.ipynb",
+      "sha256": "a8c2693093e5a922d52052e07b0f44790e219804ae3e4f308ce22b955b1b2ed8"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/listings/listing-4.ipynb",
+      "sha256": "ca11396dfa440281495ad61793270baa7e1dadc21640bd5a2811cd855639cf15"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/library_stage_10.py",
+      "sha256": "95e534e7f97392ae4097942655bf0a5166b2ae960c42a70bf2d990e0bce4dd57"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/mini-projects/library-project-10.ipynb",
+      "sha256": "14ecbb305eef5d4b98064e57b890bb165d3726982bb79a3dbca2555b7043676a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/inheritance/challenges/pyfp000-l054-a02.ipynb",
+      "sha256": "3c9c6bde6cc192fd8a3e2d63747fa691544639633c52bc266bd7d3191ca7ac22"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/listings/listing-1.ipynb",
+      "sha256": "72c6fd870da7f63ef1625f8605342e6713ac35f8fb2b75b745be21b13ad827b0"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/listings/listing-2.ipynb",
+      "sha256": "28ba90af2371e8a98c81ed8cbf1eae7299a3308824f4d9c4f6b2504052007d52"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/listings/listing-3.ipynb",
+      "sha256": "879b49be82ab71dfa01da4b899ffcab092f7efe68a3696af5395ddad588fb7a6"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/listings/listing-4.ipynb",
+      "sha256": "a21a3fb8b182c200bff2636a383ea5919f1f2f3920556278dc76758a6cf2ab91"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/listings/listing-5.ipynb",
+      "sha256": "284c177e8029d30bec88ac64dbd67625fc3d7d9e1850b9cdd351fc1902872665"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/library_stage_12.py",
+      "sha256": "bbb4889b355340938ffb7a60e822017f99476c64dba37d7283f899205d2c4ec1"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/mini-projects/library-project-12.ipynb",
+      "sha256": "95779fa0856b706d72fad5fc3c88246330a5114e20ae79e203ce1c217bb5b8a7"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/challenges/pyfp000-l053-a01.ipynb",
+      "sha256": "660ee9aa2229c462a901404bd831cb89a6e99625d9427f445c7569bd5eae2c1a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/polymorphismus/challenges/pyfp000-l053-a02.ipynb",
+      "sha256": "b2f2cbe24ee871481455b3a2310339037c6f7639d5aca8d2eb43d1e9b49ef937"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/listings/listing-1.ipynb",
+      "sha256": "9222dc4ea05d18843b4b7592f145df3b25ba0b07022fac3ac5df55f1fec403e5"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/listings/listing-2.ipynb",
+      "sha256": "4c104806fbc3d4ca07bb07064ca0e8cbf873087b6d8cc0f0ddca34948d00bd5c"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/listings/listing-3.ipynb",
+      "sha256": "ec77182fc4e143900e9a5e00675037bbfe489250fe6133a6cd442ca09758b8f1"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/listings/listing-4.ipynb",
+      "sha256": "411467349d7b9d63ff49b5bee540aa54afb5a40a5e9fd3a4c8ee4afcd9d82ad6"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/library_stage_08.py",
+      "sha256": "77b46aaf50dbc265d0069f8078277d835db5c870125f45a32fb453fbc2004f91"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/mini-projects/library-project-08.ipynb",
+      "sha256": "9f023592ecfc2df7aaf8628ec3eb9747245e51a6215b1f34c5bb3fe7352d3be7"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/encapsulation/challenges/pyfp000-l054-a01.ipynb",
+      "sha256": "7177c464b2869c2fb70570cc7b7ef85c8fbfb5cfb0e4f7d8f1cf08c1b6575830"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/listings/listing-1.ipynb",
+      "sha256": "58369cda4ad63605fafd38c3ab7d44af6d77e83137cf074500f44e501a3dccaa"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/listings/listing-2.ipynb",
+      "sha256": "87089e4dd96145fe67e4e72a1d44853b150f9b1ec44959d99d08ee0cb8995d9b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/listings/listing-3.ipynb",
+      "sha256": "3373e70ccf0db425d83cf9346621e0d1ca7879f8ad52b73cbfaab1273f0cc937"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/listings/listing-4.ipynb",
+      "sha256": "da921dc9b104cfa8338277ec7e025bcedf9ff8895e57e50e2592ca29a1463a24"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/library_stage_15.py",
+      "sha256": "0772dde57bcb2ce0474bcc2a8bbd3c74eb7fab5664b39f02a80095890271cdd0"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/mini-projects/library-project-15.ipynb",
+      "sha256": "df0e00cbf035dd00a0a702d68bca7d254e0e025ef0ea6a53d5ec04ab5cdf1c83"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship/challenges/pyfp000-l055-a01.ipynb",
+      "sha256": "5a61054af5cb825630d35a05dfc45c15c386e896a803e722bc8e9c1d3d077aea"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/listings/listing-1.ipynb",
+      "sha256": "b3bbc7ec7f09c676ea6a729ff4c17592f9d8f6970221d5816a512ac0b08210e5"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/listings/listing-2.ipynb",
+      "sha256": "b5820fd88d25bc4f99f1b5778d8838aa7bf8b5f9292a5dfb66d021bb86b8f349"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/listings/listing-3.ipynb",
+      "sha256": "5a2e0ff13d1f7a548965308c3eb53a211ffd5a31ba28a2bf72c76a260ad5e890"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/library_stage_09.py",
+      "sha256": "00633ccd22211ef77bfcc35304b6717153c83a29128db49ac04b61eabca05165"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/mini-projects/library-project-09.ipynb",
+      "sha256": "4d6b19e037eb3cb76cb0ca27893217cfdec5a241b84739de592fc45ce431d2a0"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship/challenges/pyfp000-l056-a01.ipynb",
+      "sha256": "959d96a65f480ee58d0df3301a436d35c46548b2aa2af1f41d56f2032aa610cc"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/listings/listing-1.ipynb",
+      "sha256": "f276dc60da0dcebba1f08b66e5173678879f0f830a463e14bff2178446294388"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/listings/listing-2.ipynb",
+      "sha256": "01c1a6aab9172deb3642b6bc32d5368f698eb3bd74a6e006476f3eed3d9d71b1"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/listings/listing-3.ipynb",
+      "sha256": "1e369d250da7ec6dbf9c9bf5e23b1813f6bcfb039cd1cb29d69ac6e5bca3e35f"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/library_stage_14.py",
+      "sha256": "87dbb137b3a9521bc43d3a3eecbfa9bece04b65602a65cc55bd303bb13a86b67"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/mini-projects/library-project-14.ipynb",
+      "sha256": "22fecf876213906055253f5ec2f19a1477ac96b5d032fbac1285d6ba4b493d0d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class/challenges/pyfp000-l057-a01.ipynb",
+      "sha256": "b7acad4dd6e0c3780c9f90ac2666e86148464dde80294f9021058599ff89f46d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/listings/listing-1.ipynb",
+      "sha256": "0a4d88b1e81468ad2607ea74e27a1f09797e64efdc2514b7b029dca27d0dccfa"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/listings/listing-2.ipynb",
+      "sha256": "952acc7873f41b6b55fa90472e382941e08dee3345bce198f0f9b8689e1d738b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/listings/listing-3.ipynb",
+      "sha256": "8355944891bb8d39dade0b2281a2eb27dc11f6f6dd8dc30c7535f02871c378a9"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/library_stage_13.py",
+      "sha256": "7ee4b714b024985385f8917e00859ad0e5258f0049374599c63ccf6cf73a1507"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/mini-projects/library-project-13.ipynb",
+      "sha256": "4b60f1447273fae721a22f2d80a08df078b65b033b37f6d00fcd50f556d6425d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces/challenges/pyfp000-l058-a01.ipynb",
+      "sha256": "8e9a98095ecfa93949a5f9884d52e3627dba8c5b1be8107b33d671bc807979d5"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/listings/listing-1.ipynb",
+      "sha256": "2f54d3b32fc6aa500c8602e78f82bbf90265cad8db31a993c761631768df2259"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/listings/listing-2.ipynb",
+      "sha256": "70d938900688e4ec8b718f2c624bdbddbf5a96fed47de44a42d3c053a41aad70"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/controller.py",
+      "sha256": "f1f1f59a61b3c93dd18485158a71204c7f2dfda3ab184bf8a46cf5dc536286b1"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/library_model.py",
+      "sha256": "e73ffc74333ecb3e717c3f46ca979fa1afaf669348bb254592e3340f4a2ee607"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/main.py",
+      "sha256": "4a7a3d1ce7d4478cdc566fb453b98fb4585873008ba0a4c6a996977de449e061"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/notifications.py",
+      "sha256": "5da52d549b9a7aeae4d5fe8d1a97370bc06e312d8338908cf82356d75ea64a46"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/mvc-architecture/views.py",
+      "sha256": "6c52d46fa8b3c9a000bbb7c0924d51216f42838bcf31f4dae2a014c26df4cf4d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/object-diagram/listings/listing-1.ipynb",
+      "sha256": "9deb928b83e1d009bf519792cba23170c9356d9576d8c0d54e1e8292286bed26"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/object-diagram/listings/listing-2.ipynb",
+      "sha256": "d6e5932b47a0cb7cec75048b401e1342f8c31aafe8731e5e29828113a45f7500"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/from-diagram-to-code/listings/listing-1.ipynb",
+      "sha256": "5a59939f4f221bd154ab9a2ec1a3057baa29527621f5b862327c20d470823831"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/from-diagram-to-code/library_stage_16.py",
+      "sha256": "be9205b00e4507fc58fd8245f59d091f0bcb68b861cadf2514cd7de9193fa6db"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/from-diagram-to-code/mini-projects/library-project-16.ipynb",
+      "sha256": "11c43da2711bc0c90da32b5a1a0bd6ce6a30277487e886a468a79f6932d3f17e"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch05-uml-modeling/from-diagram-to-code/challenges/pyfp000-l066-a01.ipynb",
+      "sha256": "b8d14a87fdad46fb0d6eb9600f14cea09d2ded8ef7744a060e1fecc91e15eb62"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships/listings/listing-1.ipynb",
+      "sha256": "8c4535ce989e676d099543a94b8d763a242c7a4c2ec6769006ea8c3e1127f202"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships/listings/listing-2.ipynb",
+      "sha256": "3cfd6f077850e5266004bcd26059382aaee174940dc8f230f1f19893bd04f7e6"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships/library_stage_11.py",
+      "sha256": "670fd273bf980f6cd576fb6f3817f8a89c29303b5ac9242b68863d7d639b95a4"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships/mini-projects/library-project-11.ipynb",
+      "sha256": "7f9e7bca41b87eff4a71fb32e4f1dff4841b7fb03001b3a96f95f5289aa70d0a"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships/projects/pyfp000-l067-a02.ipynb",
+      "sha256": "ac84075bfd4b45312c0fb58364199d37c485066e199e7976eb3b1ba2bf14d77d"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch06-application-design/activity-diagram/listings/listing-1.ipynb",
+      "sha256": "1f0b7f3673896ec40a6b974cd605839c6cb48f0350ac4b7440cb22dd86b85e4f"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/check_university.py",
+      "sha256": "c900c53bed56a88b02577ad9cd6be5016ce10fe144b1b0180de5e994f7a76cdc"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/controller.py",
+      "sha256": "98a9e509c9412088781671afceb12f49e18b01d6bb7365db721bc1036fe1ecba"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/main.py",
+      "sha256": "7ff6eff045cb072388767322959474b0b00a3d9cf8916afbadbfc9e2e684d950"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/models.py",
+      "sha256": "688fa8af22f779a6d18df8e6dacc8a331a6713356171228c066f29d4f9185f0b"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/views.py",
+      "sha256": "9ec50c487f6493900bc6675b12bb4e77b02e7efb45e6624f3c5797a6a33a0059"
+    },
+    {
+      "path": "workspaces/oop-workspace/ch07-university-course-project/university_app/project-workspace.ipynb",
+      "sha256": "9a4cde997a820ae37745406c658fd632e7501a2395de970a0b6a2b3486523636"
+    },
+    {
+      "path": "workspaces/advanced-workspace/README.md",
+      "sha256": "1633f3f1f208d354fc0cdd093006bacf94b2be27d10c43e31c3eedfe84ca8b0d"
+    },
+    {
+      "path": "workspaces/advanced-workspace/requirements.txt",
+      "sha256": "3df0169a22d01eaf04617d3079c5e998297bad1794f8bdccf3e4907b356cb57b"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-specialized-datastructures/challenges/coding-challenge-recall-the-library-catalogue.ipynb",
+      "sha256": "d21f62833d23bae471f81f8f26490412d09026531ad391209f87759988879772"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-specialized-datastructures/challenges/coding-challenge-choose-a-container.ipynb",
+      "sha256": "5708706b977b788c59742d2e5e00b8ddd1d1bf5def759fbe494a0287acbd455c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/counting-with-counter/listings/listing-1.ipynb",
+      "sha256": "210fc240d8583f2aecbdea0d608cd60b8101999c5857a077d8801fd72b533d85"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/counting-with-counter/listings/listing-2.ipynb",
+      "sha256": "b476fff629b2bffe5aa33370d9840da9bbbd6c74d737972baaa4fef57700cf28"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/counting-with-counter/challenges/coding-challenge-count-catalogue-tags.ipynb",
+      "sha256": "376c60389fde493105ffa410f7cdba33fa1330822c2d7c8c51704d5a273f83a2"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/grouping-with-defaultdict/listings/listing-1.ipynb",
+      "sha256": "939970f214e73c812137a266c4fd13cc021a8de12adf6cadd8900e64b440cee4"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/grouping-with-defaultdict/challenges/coding-challenge-group-courses-by-department.ipynb",
+      "sha256": "a4cf29a03dbd63360a6125125cf14653077f40986f2acaf935b9f46b170ae73c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/lightweight-records-with-namedtuple/listings/listing-1.ipynb",
+      "sha256": "332fb4d416cd0cd03660ec8142ddcef9be95f67a2b090c2ca97de905dcbfadb7"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/lightweight-records-with-namedtuple/listings/listing-2.ipynb",
+      "sha256": "abe6470ccab407a8b41699a64c5a989cb43b5155d518ff30a212b894d3ef6d28"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/lightweight-records-with-namedtuple/challenges/coding-challenge-select-recent-books.ipynb",
+      "sha256": "de2e2dec49ac93876e66d0cfaf6d0456d1a79287ce5702786379fd5ccb55d3e3"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/double-ended-queues-with-deque/listings/listing-1.ipynb",
+      "sha256": "5efed88adfa53b9be160620e8dbf7ae1bce8705977112344904a685117d5721a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/double-ended-queues-with-deque/listings/listing-2.ipynb",
+      "sha256": "c5f92774e5dcc514f71dd6984e330d27a3888342ad70130cb17ac7314cf3d9b9"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/double-ended-queues-with-deque/challenges/coding-challenge-serve-the-queue.ipynb",
+      "sha256": "b948bc26cab5b81fc5c23a5be00f85a283612475ab81d5ec829c7081ca24405a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools/listings/listing-1.ipynb",
+      "sha256": "6267fce6c3a3978d3594f2e226632a3a4cf217f1a7592855d2f0839dd5d55234"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools/listings/listing-2.ipynb",
+      "sha256": "c49e18f4c4df0afd30af0e0a25ddbe124a81b3e8cb14841500ef5f0de848dd64"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools/listings/listing-3.ipynb",
+      "sha256": "b3616fbdada2b0c51b050501c672d8bd5ba2fb408ca5e3ea3c800556a360f9ff"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools/listings/listing-4.ipynb",
+      "sha256": "f3456625444ad56c440bf6750602c730612b11857d39adeb7e9e64e36dc43e3c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools/challenges/coding-challenge-generate-session-choices.ipynb",
+      "sha256": "def04ddb77271c13ea3d6f88603fe5c00f45e345dd39b67ed86c421f45e78441"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/priority-queues-with-heapq/listings/listing-1.ipynb",
+      "sha256": "ece1e2d59058e85a486f6a968c47ac267d472ca3845b009de974671bca13b0ba"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/priority-queues-with-heapq/listings/listing-2.ipynb",
+      "sha256": "1b2a27c22accba6f9103de632994bce9235b0f2d427a44d7790763c57476943d"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/priority-queues-with-heapq/challenges/coding-challenge-preserve-arrival-order.ipynb",
+      "sha256": "1f7c721b934ea31a750bc40aa14c0c2f86430829a9abaf71c1f38fdf1f25ae62"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/categorical-data-with-enum/listings/listing-1.ipynb",
+      "sha256": "0323ce5fe111d8bc35b7604fe202bee72e3715ea07666e7696a8d0a2a181bc31"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/categorical-data-with-enum/listings/listing-2.ipynb",
+      "sha256": "e8dfbb71186d5d5020d8ab97005e82cf6440b3f0e8bb06ea5cf6f40f12c4b185"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/categorical-data-with-enum/listings/listing-3.ipynb",
+      "sha256": "53ba4a10ee023742ed13c2ce0ea858d058cb84a16c1a5b80397ebdc5d7fc72ef"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/categorical-data-with-enum/challenges/coding-challenge-validate-a-status-code.ipynb",
+      "sha256": "a972a4fd1fe556f3bf791de22d18f6150dcae7a2661ff2bfd4b9acf64baa5626"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-1.ipynb",
+      "sha256": "e12feba8fe70c1a2a9771361de6f4d1cef747c99620c5ab007d3678963e34b96"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-2.ipynb",
+      "sha256": "fd31b03e770dd2949c0b0a5318d7a71d699f44244a84649fc3a8db392ad4be1a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-3.ipynb",
+      "sha256": "bd466c808e25a06984c4a91ad0ae236bd13739deef6c6fb282b344ecebcfd30a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-4.ipynb",
+      "sha256": "8cdffa51cbd4c184fb3517e415d4080206ee10cc5506ce98a99f2d12fafa7739"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-5.ipynb",
+      "sha256": "c50ed464e049fb3611d1ec7bdb0e58187149fcb7981ef3a154b8121b9142d66a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-6.ipynb",
+      "sha256": "de9b68f1f9ed3c3a1390f3db9c7bf417196a1eb212177d74672362cd42f86c99"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/listings/listing-7.ipynb",
+      "sha256": "c6787feb979436e8057b62046d59dfc00da4d53d171322820e472dac995c3636"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/projects/exercise-1-build-a-newsroom-keyword-extractor-counter-chain.ipynb",
+      "sha256": "24f092ccd338daec9faeb5a82c3780d73f4b6f41cdc455109412758b31a6d67e"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/projects/exercise-2-academic-grade-distribution.ipynb",
+      "sha256": "28c8497415b48951d5559489b4c78372e8e850c0c330bb18ef76759970289764"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges/projects/exercise-3-support-center-queue-simulation.ipynb",
+      "sha256": "71475b26aee924c59db962cae2b37ef47339a32f19ca60d5d98a11d2d92bc8d6"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-file-handling-and-serialization/challenges/coding-challenge-choose-a-storage-format.ipynb",
+      "sha256": "70114c5e8d85c2019961d9c2eca78ace09f4101c0ac873690744582556da0355"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/file-handling/challenges/coding-challenge-count-non-empty-lines.ipynb",
+      "sha256": "d8040429f36d664ee99c35e6d1490f2324438e3e30107751e552da00bdfa08bb"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/serialization/listings/listing-8.ipynb",
+      "sha256": "34cfb30f8bc6c374edba922e2b86e8c697fab89536c204a2214e68216154b9ff"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/serialization/challenges/coding-challenge-round-trip-a-catalogue.ipynb",
+      "sha256": "cc47fdb41e0e33d62a935633240916b3f1d4f8559edbb8eec1be686494c891b8"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/serialization/projects/review-an-ai-answer-a-downloaded-pickle.ipynb",
+      "sha256": "ee7b0dc1935e445f5710c315ce3a4a49c6f5e60ed29527ce397b0e07ec182b62"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-2.ipynb",
+      "sha256": "004d687beb001e041d47006488f848b159b719d89b5bb152d61d651a61208669"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-3.ipynb",
+      "sha256": "17bffe1c5bee4f0ecf762ac2dbee1dd61852e1d10f845b682b40f1ac77a93bb7"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-4.ipynb",
+      "sha256": "4df4815cbe66a9aff46fd06b333b147e9bc68769be97cb4b87b83d128d233695"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-5.ipynb",
+      "sha256": "c84c75d42a6733ee816da14eb9f3b70857be34f88dcfe1b93f3817e716083063"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-6.ipynb",
+      "sha256": "6459fa33be3cdc84f2ba99dbf914f9f2e95b298cfca5522829d662a03b0509a8"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-7.ipynb",
+      "sha256": "e76603eac15b0eb712b2dd2ec67ecdb29a1fa66138aeaa7279608823bf57ff97"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/listings/listing-8.ipynb",
+      "sha256": "54b34af9a4a4408d0a1f24c92f3d2ad919b6241d41a67e2016aca92e0ca41924"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing/challenges/coding-challenge-validate-a-non-negative-count.ipynb",
+      "sha256": "2fc352b40a47dfe905e9d691b4b6a69ec448cacd18ec392361da1c60ec70886e"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/exercise1-safe-calculator/listings/listing-1.ipynb",
+      "sha256": "2182b066d49f29e8f5c7002b91c57c51d9ba1a191b4f08a1366ac66b5148b003"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/exercise2-student-registration-validator/listings/listing-1.ipynb",
+      "sha256": "77c1e738e4263058c0724461eb864e457135b08baf8a5b57869e390a7214559c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-testing/challenges/coding-challenge-specify-the-boundary-cases.ipynb",
+      "sha256": "f2ebe66fbc27e90ffb652211fcd032c38adce50684000040dd235e32d74cec52"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/listings/listing-1.ipynb",
+      "sha256": "166a3ddc4e1a94b07aad8326275b0806eaed28463aaa2781c7b2ad56dc24869e"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/listings/listing-2.ipynb",
+      "sha256": "27e0f8d8558b16e8fb91f9eadf5e212996044f6fbcc84e421c8b0a8a14cb3026"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/listings/listing-4.ipynb",
+      "sha256": "9154469aab33f9c5a21c5e4e14e30369e03b08869376d6a5fa91795a0d000ca9"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/listings/listing-5.ipynb",
+      "sha256": "0ab03f2f5b9ee1a3f0553b7caefe3d9bb2a00fc9042ddd294098a06c9b948684"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/listings/listing-6.ipynb",
+      "sha256": "3065f62c2e7cbd031949e1c82755613902accba226e7379cf8fca1e18c6d9d1f"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest/challenges/coding-challenge-test-delivery-fees.ipynb",
+      "sha256": "a9dfd62be49c8493ecb88c8cd3a20d0c66624abd2e4ba61c3fb6fba80fc109ac"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-1.ipynb",
+      "sha256": "9440c8e7fb52126a72a4b10df08a6276863afff4754f3e04e776af15f2416c2f"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-2.ipynb",
+      "sha256": "77faf5df67d72e792c435a522fa40d0b5bd43e58bc86d3965561492fd18d7524"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-3.ipynb",
+      "sha256": "e5298d77f4243cd08ff2e7d6e74d849314d922507bf334a08f4241c045d43e31"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-4.ipynb",
+      "sha256": "4de4035a846b70dca9fb790211a0ad851aed8229de15fc3e095d4b12e7224b19"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-5.ipynb",
+      "sha256": "496be32adc781e9f39152e321d0113bee6921b90727015776537c1aad82a45d2"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-6.ipynb",
+      "sha256": "397d11f81054a625cfd07e76d402d15c43ba8e228af34c6d0df70684d94cbea9"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-8.ipynb",
+      "sha256": "2124ad41f9cab853208ae76fc93e9f3d3cdd8cbde88ae1ae1ca24ed7803e14eb"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-9.ipynb",
+      "sha256": "dad14acf0d32adf44e0c234f66fd798709e8e2546296b4550147c7d30d09bbf1"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/listings/listing-10.ipynb",
+      "sha256": "ed1cb5dfd830eb6ed15d94847e9f70a4d676d977e47f1e3fc0a55488e51e3dc3"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/challenges/coding-challenge-parametrize-delivery-cases.ipynb",
+      "sha256": "0387f53883e145ecb996539fd2bb66794e63e1bf0e05a4ae23d6f0f7b864af23"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/projects/review-an-ai-answer-a-test-that-cannot-fail.ipynb",
+      "sha256": "34f4c36d6532ae1737044cfb2948d975a69aba011af5664f7a5da9a67321e60f"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest/challenges/coding-challenge-test-the-tic-tac-toe-referee.ipynb",
+      "sha256": "5133b5cef9f1ffc9c5b5d1b54f2c2a3fd37fcb30124ee8a240f3924512a12eb0"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-concurrency-parallelism/challenges/coding-challenge-match-work-to-a-tool.ipynb",
+      "sha256": "f447889707082b3133c36eb2919801c12c2c4650f7c4840dd2159bc1bce14d32"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/global-interpreter-lock-gil/challenges/coding-challenge-review-a-performance-claim.ipynb",
+      "sha256": "7a1ad05cdc4b04795e080c038bab002cdf7b96f0b69ea61a85446eb7b80475b2"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/threads-best-for-io-bound-tracks/listings/listing-1.ipynb",
+      "sha256": "d8f1c5a822682964191d192bf3e6be95cf4723dc9bfe9ff7b33419a5235d4a7c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/threads-best-for-io-bound-tracks/challenges/coding-challenge-collect-threaded-results.ipynb",
+      "sha256": "51ba6e8c7ca6bb9ee392ff6957d94ea1235194de6afeacba994f606d924669c0"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/threads-best-for-io-bound-tracks/projects/review-an-ai-answer-four-tellers.ipynb",
+      "sha256": "508858f8ba951074bf64810a321e92b064e9f90b9c2f2d805181ccf1a8f4e39c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/processes-best-for-cpu-bound-tasks/listings/listing-1.ipynb",
+      "sha256": "94e6f0ae9bca3c3b7f44e33e8ce6750e4ada2af06c05214d69df17c88690bb10"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/processes-best-for-cpu-bound-tasks/challenges/coding-challenge-compare-process-results.ipynb",
+      "sha256": "c6409890c122a2537527434071ef2c8c3149c76bc3a5f0f95f20aa47a004df96"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/async-io-with-asyncio/listings/listing-2.ipynb",
+      "sha256": "4b05c08dd603cd1ba388dc31ba5310e5fe6d07d76a22903061ab0468e8119a9c"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/async-io-with-asyncio/challenges/coding-challenge-keep-async-results-in-order.ipynb",
+      "sha256": "a06bd699fb907ea5e0c734468648418ef4e43c1fc66c3f4c4faa73f782df9a13"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-parallel-word-counter/listings/listing-1.ipynb",
+      "sha256": "54ac95ccf79f637c0c4f68d98b69f2b52c3329b908e577a31335e8a33c6fd1df"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/intro-apis-and-web-scraping/challenges/coding-challenge-plan-a-data-request.ipynb",
+      "sha256": "9ae4ff07e21c2161a09ce9b175785dc5c4a42993dde94277e5ea5b31c5823b94"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/understanding-http/challenges/coding-challenge-interpret-response-codes.ipynb",
+      "sha256": "da4a19401d507de0d9f9e6a6ef7159f4b73d93dcbce2f3557343e629dd885c20"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/html-basics/challenges/coding-challenge-describe-a-document-tree.ipynb",
+      "sha256": "643392531a510f2440c5e53a6000b8f6e87f2e0138f0c28dd5e56a2febf6a24e"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/fetching-and-parsing-online-data/listings/listing-1.ipynb",
+      "sha256": "2aba85b65a86e95cbdf28de54f623c0177dbc6e0211a27ba49c02719ae317da7"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/fetching-and-parsing-online-data/challenges/coding-challenge-extract-categories-locally.ipynb",
+      "sha256": "1a55e93b7d9c7f35096f825b487ef687e98b8ef88074e802c8953fe54b63db24"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/ethics-responsible-web-scraping/challenges/coding-challenge-respond-to-a-rate-limit.ipynb",
+      "sha256": "b9c3c344351aa1bbb5e8114ada4c2ed1ae8d201d1bce0a6edb8a4441b28d58af"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-fetch-parse-website-data/listings/listing-2.ipynb",
+      "sha256": "70c46bf60b56dfbdb97463f366f6f01c944cb30633383e2de28030a2c0f8ee12"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-catalogue-desk/projects/project-brief.ipynb",
+      "sha256": "e91c946697b33f4eaaf8439f34003dd6e76c07977be89fbdbcb23c0c48cf61aa"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-session-planner/projects/project-brief.ipynb",
+      "sha256": "b6d0bd159267d5c47ac433366442df66649b03219fc9c62ddfe48d7c432b5193"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-reading-journal/projects/project-brief.ipynb",
+      "sha256": "5d5c03aec4d2f8eb361b19722c43cb1c7f74407fd0e556d6d53bc9b17b82efc6"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-registration-inbox/projects/project-brief.ipynb",
+      "sha256": "3aa36077ce895009d5b80021a8227817b8732ee0551ca3218ed325a283472f94"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-tested-borrowing/projects/project-brief.ipynb",
+      "sha256": "964da629dded1daf0010b1ba7f3e17f83db435dada726aa252ad9251ef47b763"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/listings/listing-1.ipynb",
+      "sha256": "be7859cb803373f30c117082e60fc7d06a40eadbb80ca9f9aa21c78f8981170a"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/listings/listing-2.ipynb",
+      "sha256": "0379d1c467244c2308b032c265f3b384db24a9d0e76797255211a7510bf5baf9"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection/README-data.md",
+      "sha256": "a7866ddc940de0cc04c323ddb7e5fc7bae8de0a8f4cf227fc8595ae8a49baaf9"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection/cma-paintings.csv",
+      "sha256": "8dec736f6eeeded2b13f4641bc28a4ad16e5cf341214121343ddc40eafa4ee4e"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection/museum.py",
+      "sha256": "4c46bbcde15b80266eeb33d13224313ed3c23b2d70a7c75ae3fefb2f0fd48cf7"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection/test_museum.py",
+      "sha256": "6e1e9146fa5f92edb6bd31a22fee8403e1cecc2c7ae6f339247a7874cfed3954"
+    },
+    {
+      "path": "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection/project-museum-collection.ipynb",
+      "sha256": "5529b145501755bfcf2c09e2a81c82b025a435a06d72b8b62f737c07696fbd61"
+    }
+  ],
+  "sections": [
+    {
+      "number": "1.1",
+      "title": "What Is Python?",
+      "folders": [
+        "workspaces/basics-workspace/00-getting-started/what-is-python"
+      ]
+    },
+    {
+      "number": "2.2",
+      "title": "Python Interpreter",
+      "folders": [
+        "workspaces/basics-workspace/00-getting-started/python-default-interpreter"
+      ]
+    },
+    {
+      "number": "2.5",
+      "title": "First Python File",
+      "folders": [
+        "workspaces/basics-workspace/00-getting-started/first-python-file"
+      ]
+    },
+    {
+      "number": "2.6",
+      "title": "IPython Interpreter",
+      "folders": [
+        "workspaces/basics-workspace/00-getting-started/ipython-interpreter"
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Your First Projects",
+      "folders": [
+        "workspaces/basics-workspace/00-getting-started/your-first-python-programs"
+      ]
+    },
+    {
+      "number": "4.1",
+      "title": "Numbers",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-numbers"
+      ]
+    },
+    {
+      "number": "4.2",
+      "title": "Strings",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-strings"
+      ]
+    },
+    {
+      "number": "4.3",
+      "title": "Variables",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-variables"
+      ]
+    },
+    {
+      "number": "4.4",
+      "title": "Indentation and Comments",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-comments"
+      ]
+    },
+    {
+      "number": "5.1",
+      "title": "Input and Output",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-input-output"
+      ]
+    },
+    {
+      "number": "5.2",
+      "title": "Type Conversion",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-type-casting"
+      ]
+    },
+    {
+      "number": "6.1",
+      "title": "Booleans",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-boolean-values-logical-expressions"
+      ]
+    },
+    {
+      "number": "6.2",
+      "title": "Operators",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-operators"
+      ]
+    },
+    {
+      "number": "6.3",
+      "title": "String Formatting",
+      "folders": [
+        "workspaces/basics-workspace/02-basic-concepts/python-string-formatting"
+      ]
+    },
+    {
+      "number": "7.1",
+      "title": "Lists",
+      "folders": [
+        "workspaces/basics-workspace/03-data-types-collections/collection-lists"
+      ]
+    },
+    {
+      "number": "7.2",
+      "title": "Tuples",
+      "folders": [
+        "workspaces/basics-workspace/03-data-types-collections/collection-tuples"
+      ]
+    },
+    {
+      "number": "8.1",
+      "title": "Sets",
+      "folders": [
+        "workspaces/basics-workspace/03-data-types-collections/collection-sets"
+      ]
+    },
+    {
+      "number": "8.2",
+      "title": "Dictionaries",
+      "folders": [
+        "workspaces/basics-workspace/03-data-types-collections/collection-dictionaries"
+      ]
+    },
+    {
+      "number": "9.1",
+      "title": "Nested Data Structures",
+      "folders": [
+        "workspaces/basics-workspace/03-data-types-collections/collection-nested-data-structures"
+      ]
+    },
+    {
+      "number": "10.1",
+      "title": "Conditional Statements",
+      "folders": [
+        "workspaces/basics-workspace/04-control-flow/conditional-statements-if-elif-else"
+      ]
+    },
+    {
+      "number": "10.2",
+      "title": "The match Statement",
+      "folders": [
+        "workspaces/basics-workspace/04-control-flow/match-statement"
+      ]
+    },
+    {
+      "number": "11.1",
+      "title": "While Loops",
+      "folders": [
+        "workspaces/basics-workspace/04-control-flow/while-loops"
+      ]
+    },
+    {
+      "number": "11.2",
+      "title": "For Loops",
+      "folders": [
+        "workspaces/basics-workspace/04-control-flow/for-loops"
+      ]
+    },
+    {
+      "number": "12.1",
+      "title": "Python Functions",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/intro-functions"
+      ]
+    },
+    {
+      "number": "12.2",
+      "title": "Arguments and Return Values",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/function-arguments-and-return-values"
+      ]
+    },
+    {
+      "number": "13.1",
+      "title": "*args and **kwargs",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/function-flexible-arguments-args-kwargs"
+      ]
+    },
+    {
+      "number": "13.2",
+      "title": "Scope and Decorators",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/function-scope-and-decorators"
+      ]
+    },
+    {
+      "number": "14.1",
+      "title": "Built-in Functions",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/built-in-functions"
+      ]
+    },
+    {
+      "number": "14.2",
+      "title": "Lambda, Recursion, Generators",
+      "folders": [
+        "workspaces/basics-workspace/05-functions/lambda-functions-recursion-generators"
+      ]
+    },
+    {
+      "number": "15.1",
+      "title": "Working with Modules",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/working-with-modules"
+      ]
+    },
+    {
+      "number": "15.2",
+      "title": "The datetime Module",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/datetime-module"
+      ]
+    },
+    {
+      "number": "15.3",
+      "title": "The math Module",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/math-module"
+      ]
+    },
+    {
+      "number": "15.4",
+      "title": "The json Module",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/json-module"
+      ]
+    },
+    {
+      "number": "15.5",
+      "title": "The re Module",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/regex-module"
+      ]
+    },
+    {
+      "number": "16.1",
+      "title": "Installing Packages with pip",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/pip"
+      ]
+    },
+    {
+      "number": "16.2",
+      "title": "try and except",
+      "folders": [
+        "workspaces/basics-workspace/06-modules/try-except"
+      ]
+    },
+    {
+      "number": "17.1",
+      "title": "What Is OOP?",
+      "folders": [
+        "workspaces/oop-workspace/ch01-classes-and-objects/what-is-oop"
+      ]
+    },
+    {
+      "number": "17.2",
+      "title": "Classes and Objects",
+      "folders": [
+        "workspaces/oop-workspace/ch01-classes-and-objects/creating-class-and-objects"
+      ]
+    },
+    {
+      "number": "17.3",
+      "title": "Attributes and Methods",
+      "folders": [
+        "workspaces/oop-workspace/ch01-classes-and-objects/object-attributes-and-methods"
+      ]
+    },
+    {
+      "number": "17.4",
+      "title": "__init__ and self",
+      "folders": [
+        "workspaces/oop-workspace/ch01-classes-and-objects/init-method-and-self-parameter"
+      ]
+    },
+    {
+      "number": "17.5",
+      "title": "Identity, State, Behavior",
+      "folders": [
+        "workspaces/oop-workspace/ch01-classes-and-objects/object-identity-state-behavior"
+      ]
+    },
+    {
+      "number": "18.1",
+      "title": "Attributes",
+      "folders": [
+        "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-attributes"
+      ]
+    },
+    {
+      "number": "18.2",
+      "title": "Methods",
+      "folders": [
+        "workspaces/oop-workspace/ch02-instance-and-class-members/instance-vs-class-methods"
+      ]
+    },
+    {
+      "number": "18.3",
+      "title": "Library Catalogue",
+      "folders": [
+        "workspaces/oop-workspace/ch02-instance-and-class-members/coding-challenge-tracking-library-books"
+      ]
+    },
+    {
+      "number": "19.1",
+      "title": "Encapsulation",
+      "folders": [
+        "workspaces/oop-workspace/ch03-object-relationships/encapsulation"
+      ]
+    },
+    {
+      "number": "19.2",
+      "title": "Composition",
+      "folders": [
+        "workspaces/oop-workspace/ch03-object-relationships/composition-has-a-relationship"
+      ]
+    },
+    {
+      "number": "19.3",
+      "title": "Inheritance",
+      "folders": [
+        "workspaces/oop-workspace/ch03-object-relationships/inheritance"
+      ]
+    },
+    {
+      "number": "19.4",
+      "title": "Is-a and Has-a",
+      "folders": [
+        "workspaces/oop-workspace/ch03-object-relationships/is-a-and-has-a-relationships"
+      ]
+    },
+    {
+      "number": "19.5",
+      "title": "Polymorphism",
+      "folders": [
+        "workspaces/oop-workspace/ch03-object-relationships/polymorphismus"
+      ]
+    },
+    {
+      "number": "20.1",
+      "title": "Interfaces and Contracts",
+      "folders": [
+        "workspaces/oop-workspace/ch04-interfaces-and-abstraction/interfaces"
+      ]
+    },
+    {
+      "number": "20.2",
+      "title": "Abstract Classes",
+      "folders": [
+        "workspaces/oop-workspace/ch04-interfaces-and-abstraction/abstract-class"
+      ]
+    },
+    {
+      "number": "20.3",
+      "title": "Multiple Inheritance",
+      "folders": [
+        "workspaces/oop-workspace/ch04-interfaces-and-abstraction/multiple-inheritance-is-a-relationship"
+      ]
+    },
+    {
+      "number": "21.4",
+      "title": "Object Diagram",
+      "folders": [
+        "workspaces/oop-workspace/ch05-uml-modeling/object-diagram"
+      ]
+    },
+    {
+      "number": "21.5",
+      "title": "From Diagram to Code",
+      "folders": [
+        "workspaces/oop-workspace/ch05-uml-modeling/from-diagram-to-code"
+      ]
+    },
+    {
+      "number": "22.2",
+      "title": "Activity Diagram",
+      "folders": [
+        "workspaces/oop-workspace/ch06-application-design/activity-diagram"
+      ]
+    },
+    {
+      "number": "22.4",
+      "title": "Structuring Code",
+      "folders": [
+        "workspaces/oop-workspace/ch06-application-design/intro-structuring-code"
+      ]
+    },
+    {
+      "number": "22.6",
+      "title": "MVC Architecture",
+      "folders": [
+        "workspaces/oop-workspace/ch06-application-design/mvc-architecture"
+      ]
+    },
+    {
+      "number": "24.1",
+      "title": "Overview",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/intro-specialized-datastructures"
+      ]
+    },
+    {
+      "number": "24.2",
+      "title": "Counting with Counter",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/counting-with-counter"
+      ]
+    },
+    {
+      "number": "24.3",
+      "title": "Grouping with defaultdict",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/grouping-with-defaultdict"
+      ]
+    },
+    {
+      "number": "24.4",
+      "title": "Named Records",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/lightweight-records-with-namedtuple"
+      ]
+    },
+    {
+      "number": "24.5",
+      "title": "Queues with deque",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/double-ended-queues-with-deque"
+      ]
+    },
+    {
+      "number": "24.6",
+      "title": "Project: Catalogue Desk",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-catalogue-desk"
+      ]
+    },
+    {
+      "number": "25.1",
+      "title": "Iteration Tools",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/iteration-tools-itertools"
+      ]
+    },
+    {
+      "number": "25.2",
+      "title": "Priority Queues",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/priority-queues-with-heapq"
+      ]
+    },
+    {
+      "number": "25.3",
+      "title": "Categories with Enum",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/categorical-data-with-enum"
+      ]
+    },
+    {
+      "number": "25.4",
+      "title": "Practice",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/summary-and-coding-challenges"
+      ]
+    },
+    {
+      "number": "25.5",
+      "title": "Project: Session Planner",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-session-planner"
+      ]
+    },
+    {
+      "number": "26.1",
+      "title": "Overview",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/intro-file-handling-and-serialization"
+      ]
+    },
+    {
+      "number": "26.2",
+      "title": "Text Files",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/file-handling"
+      ]
+    },
+    {
+      "number": "26.3",
+      "title": "CSV, JSON, and pickle",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/serialization"
+      ]
+    },
+    {
+      "number": "26.4",
+      "title": "Project: Reading Journal",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-reading-journal"
+      ]
+    },
+    {
+      "number": "27.1",
+      "title": "Exceptions",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/error-handling-testing"
+      ]
+    },
+    {
+      "number": "27.2",
+      "title": "Safe Calculator",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/exercise1-safe-calculator"
+      ]
+    },
+    {
+      "number": "27.3",
+      "title": "Registration Checks",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/exercise2-student-registration-validator"
+      ]
+    },
+    {
+      "number": "27.4",
+      "title": "Project: Registration Inbox",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-registration-inbox"
+      ]
+    },
+    {
+      "number": "28.1",
+      "title": "Testing Concepts",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/intro-testing"
+      ]
+    },
+    {
+      "number": "28.2",
+      "title": "unittest",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-unittest"
+      ]
+    },
+    {
+      "number": "28.3",
+      "title": "pytest",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/unittesting-with-pytest"
+      ]
+    },
+    {
+      "number": "28.4",
+      "title": "Project: Borrowing Tests",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-tested-borrowing"
+      ]
+    },
+    {
+      "number": "29.1",
+      "title": "Overview",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/intro-concurrency-parallelism"
+      ]
+    },
+    {
+      "number": "29.2",
+      "title": "The GIL",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/global-interpreter-lock-gil"
+      ]
+    },
+    {
+      "number": "29.3",
+      "title": "Threads",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/threads-best-for-io-bound-tracks"
+      ]
+    },
+    {
+      "number": "29.4",
+      "title": "Processes",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/processes-best-for-cpu-bound-tasks"
+      ]
+    },
+    {
+      "number": "29.5",
+      "title": "Async I/O",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/async-io-with-asyncio"
+      ]
+    },
+    {
+      "number": "29.6",
+      "title": "Project: Word Counter",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-parallel-word-counter"
+      ]
+    },
+    {
+      "number": "30.1",
+      "title": "Overview",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/intro-apis-and-web-scraping"
+      ]
+    },
+    {
+      "number": "30.2",
+      "title": "HTTP Requests",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/understanding-http"
+      ]
+    },
+    {
+      "number": "30.3",
+      "title": "HTML Structure",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/html-basics"
+      ]
+    },
+    {
+      "number": "30.4",
+      "title": "JSON and HTML Parsing",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/fetching-and-parsing-online-data"
+      ]
+    },
+    {
+      "number": "30.5",
+      "title": "Responsible Collection",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/ethics-responsible-web-scraping"
+      ]
+    },
+    {
+      "number": "30.6",
+      "title": "Project: Article Collector",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-fetch-parse-website-data"
+      ]
+    },
+    {
+      "number": "30.7",
+      "title": "Final Project: Museum Collection Explorer",
+      "folders": [
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection",
+        "workspaces/advanced-workspace/08-advanced-python-concepts/project-museum-collection/projects/project-museum-collection"
+      ]
+    },
+    {
+      "number": "23",
+      "title": "Companion workspace",
+      "folders": [
+        "workspaces/oop-workspace"
+      ]
+    }
+  ]
+}
