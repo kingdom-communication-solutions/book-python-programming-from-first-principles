@@ -2928,5 +2928,111 @@
         "workspaces/oop-workspace"
       ]
     }
+  ],
+  "supporting_files": [
+    {
+      "path": "supporting-files/fetching-and-parsing-online-data/local_parsing.py",
+      "sha256": "06aed8f48db0f81d1f5e5367c046e3ae5fa26a701e482689a1c5debfa85d708c"
+    },
+    {
+      "path": "supporting-files/project-fetch-parse-website-data/article_examples.py",
+      "sha256": "3067693eb5de7f0bb021a8f1ef34b13b626fc1c5d541ce6d41ce1cd1784f6b48"
+    },
+    {
+      "path": "supporting-files/grouping-with-defaultdict/grouping_examples.py",
+      "sha256": "24dfbfa5fe1f8798331efedb6e9055564810c3531e583c5bbda60469db74e158"
+    },
+    {
+      "path": "supporting-files/project-reading-journal/readings.csv",
+      "sha256": "b510450254f710ccfd70de69e4b395171ea0830b2de9a281778aae68e9a62c7d"
+    },
+    {
+      "path": "supporting-files/project-reading-journal/reading_journal.py",
+      "sha256": "df7e23155dca422d8452ef36ae2d2ab55c0e9c81181422fadaa01cd81c2de056"
+    },
+    {
+      "path": "supporting-files/threads-best-for-io-bound-tracks/thread_demo.py",
+      "sha256": "d830054b08cbb294c77da1a226f71d5c0716dae030137c73619908bb7d683ddf"
+    },
+    {
+      "path": "supporting-files/project-parallel-word-counter/parallel_word_counter.py",
+      "sha256": "06d8ac1fc6a193d0465a65635700e3ef8fc2bb8c8e00dfb3ee9415e2dd13e62f"
+    },
+    {
+      "path": "supporting-files/serialization/serialization_examples.py",
+      "sha256": "94e68e05e735230904ee2f0cdc355f3713ea05022b1633417d4de4147310c6ab"
+    },
+    {
+      "path": "supporting-files/async-io-with-asyncio/async_demo.py",
+      "sha256": "22c92f89b5e65d7ff200c2d618035cc7bd01976ebb174f3f5857b330c053e442"
+    },
+    {
+      "path": "supporting-files/project-registration-inbox/registration_inbox.py",
+      "sha256": "69c818d1b71bd7070f5fa5f643551c3881fca44585875108a70aa27388e63aac"
+    },
+    {
+      "path": "supporting-files/categorical-data-with-enum/enum_examples.py",
+      "sha256": "5098b2eb8436a38ec13075beb37a9a731546e83b357ecd69824d7b02a924ff5c"
+    },
+    {
+      "path": "supporting-files/processes-best-for-cpu-bound-tasks/process_word_count.py",
+      "sha256": "e97b11b4c953329f2553d36147df07ef6e16bbdcefe5ff406ed452da43460542"
+    },
+    {
+      "path": "supporting-files/project-tested-borrowing/loan_rules.py",
+      "sha256": "ed3254a69eb2022b1aa604189c1c2213573a44ee12ae22e0673c4bf5f1456b0e"
+    },
+    {
+      "path": "supporting-files/project-session-planner/session_planner.py",
+      "sha256": "1246c0ec156d0645f1b3adb4b2f3d06f2c41c1c39469fb00baedae840afcbd8a"
+    },
+    {
+      "path": "supporting-files/double-ended-queues-with-deque/queue_examples.py",
+      "sha256": "40ced76afc5aaca8e4b2c3a358658a15a0f7b227bbd200bd8379e171293e349c"
+    },
+    {
+      "path": "supporting-files/error-handling-testing/exception_examples.py",
+      "sha256": "b9fd7e88b131cf2a1509492ac3be55f9ddca3f52dcd9d2c40b93d7d8ad927f8b"
+    },
+    {
+      "path": "supporting-files/file-handling/notes.txt",
+      "sha256": "d669aa2e338b2cc88a33d780ca4062aedea909dabd36b04cc32f5484ecb268a7"
+    },
+    {
+      "path": "supporting-files/file-handling/large_dataset.txt",
+      "sha256": "acb0427e8be02f4893acddc612b7b72f7258a9b15d1bec8860681034bec90ee6"
+    },
+    {
+      "path": "supporting-files/file-handling/file_examples.py",
+      "sha256": "9d7fc250c1d87486a2bc5fa840cc9e7f2d57804b9987827859e50ddce459d9e6"
+    },
+    {
+      "path": "supporting-files/file-handling/story.txt",
+      "sha256": "fa622e66eb4dba39969e1e421fc639e131496b9282c0ff5468ab5fb93effecbb"
+    },
+    {
+      "path": "supporting-files/unittesting-with-pytest/delivery.py",
+      "sha256": "8a1caad0f6512d10e9954e8fbdab232cfd1d53a7790e01817c4a33d9113181de"
+    },
+    {
+      "path": "supporting-files/iteration-tools-itertools/iteration_examples.py",
+      "sha256": "da30a7cf3bd9b57d991e8cc3c8736dcabe908fb03060f9eab1e653a0661e5b35"
+    },
+    {
+      "path": "supporting-files/lightweight-records-with-namedtuple/record_examples.py",
+      "sha256": "b9c1a655a23b356200451c1fa2fb26633e4916c8962fa11edeb7adf42856b60c"
+    },
+    {
+      "path": "supporting-files/project-catalogue-desk/catalogue_desk.py",
+      "sha256": "6a17564d36a4560870091b1f433f7ad7bc828a3617f665de99becc11a2388bdc"
+    },
+    {
+      "path": "supporting-files/counting-with-counter/counter_examples.py",
+      "sha256": "b68fb9bd8b345de76bd5f08dadb04d79c8328170c45969da12e8b58fde380820"
+    },
+    {
+      "path": "supporting-files/priority-queues-with-heapq/priority_examples.py",
+      "sha256": "471a827d78789b88d5e3c970a06dfd2498512e50b5921c6bdeaf83ace288f3b1"
+    }
   ]
 }

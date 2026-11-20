@@ -596,3 +596,7 @@ Questions and corrections: contact@kcslab.org
 ### Section 23
 
 Find the matching listing, exercise or project in the [Oop workspace](workspaces/oop-workspace). Folder names follow lesson topics; its README explains how to run the files.
+
+## Supporting files linked from the book
+
+[Supporting files](supporting-files) contains individual scripts and datasets linked directly from the PDF and EPUB. Keep each topic folder together so imports and data paths continue to work. The workspaces above remain the starting point for notebooks and starter projects.
