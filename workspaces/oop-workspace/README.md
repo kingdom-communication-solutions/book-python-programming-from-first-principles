@@ -22,4 +22,4 @@ and the University Course System starter project.
 - The University project: in `ch07-university-course-project/university_app`, run
   `python check_university.py` after each change, and `python main.py` to use the console application.
 
-Solutions are not included. Download the complete repository ZIP to keep all companion files together.
+Solutions are not included. The same notebooks open online at code.kcslab.org.

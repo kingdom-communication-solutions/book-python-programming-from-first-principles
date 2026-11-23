@@ -18,4 +18,4 @@ own computer: one notebook per runnable listing and one per mini project, projec
 - In Getting Started, `%%writefile` cells save your program as a file and `%run` cells run it. You can also
   run such a file from a terminal with `python greetings.py`.
 
-Solutions are not included. Download the complete repository ZIP to keep all companion files together.
+Solutions are not included. The same notebooks open online at code.kcslab.org.
